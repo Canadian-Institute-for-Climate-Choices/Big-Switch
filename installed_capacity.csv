@@ -1,0 +1,2940 @@
+﻿Country,Region,scenario,technology,year,installed_capacity_MW
+Canada,AB,CER_HighDemand,Hydro,2010,882.91
+Canada,AB,DSF,Hydro,2010,882.91
+Canada,AB,EPRI,Hydro,2010,882.91
+Canada,AB,IET,Hydro,2010,882.91
+Canada,AB,JANDG,Hydro,2010,882.91
+Canada,AB,CER_HighDemand,Natural Gas,2010,11701.603000000001
+Canada,AB,DSF,Natural Gas,2010,11701.603000000001
+Canada,AB,EPRI,Natural Gas,2010,11701.603000000001
+Canada,AB,IET,Natural Gas,2010,11701.603000000001
+Canada,AB,JANDG,Natural Gas,2010,11701.603000000001
+Canada,AB,CER_HighDemand,Nuclear,2010,0
+Canada,AB,DSF,Nuclear,2010,0
+Canada,AB,EPRI,Nuclear,2010,0
+Canada,AB,IET,Nuclear,2010,0
+Canada,AB,JANDG,Nuclear,2010,0
+Canada,AB,CER_HighDemand,Solar,2010,0
+Canada,AB,DSF,Solar,2010,0
+Canada,AB,EPRI,Solar,2010,0
+Canada,AB,IET,Solar,2010,0
+Canada,AB,JANDG,Solar,2010,0
+Canada,AB,CER_HighDemand,Wind,2010,805.77
+Canada,AB,DSF,Wind,2010,805.77
+Canada,AB,EPRI,Wind,2010,805.77
+Canada,AB,IET,Wind,2010,805.77
+Canada,AB,JANDG,Wind,2010,805.77
+Canada,BC,CER_HighDemand,Hydro,2010,13201.771
+Canada,BC,DSF,Hydro,2010,13201.771
+Canada,BC,EPRI,Hydro,2010,13201.771
+Canada,BC,IET,Hydro,2010,13201.771
+Canada,BC,JANDG,Hydro,2010,13201.771
+Canada,BC,CER_HighDemand,Natural Gas,2010,2281.155
+Canada,BC,DSF,Natural Gas,2010,2281.155
+Canada,BC,EPRI,Natural Gas,2010,2281.155
+Canada,BC,IET,Natural Gas,2010,2281.155
+Canada,BC,JANDG,Natural Gas,2010,2281.155
+Canada,BC,CER_HighDemand,Nuclear,2010,0
+Canada,BC,DSF,Nuclear,2010,0
+Canada,BC,EPRI,Nuclear,2010,0
+Canada,BC,IET,Nuclear,2010,0
+Canada,BC,JANDG,Nuclear,2010,0
+Canada,BC,CER_HighDemand,Solar,2010,0
+Canada,BC,DSF,Solar,2010,0
+Canada,BC,EPRI,Solar,2010,0
+Canada,BC,IET,Solar,2010,0
+Canada,BC,JANDG,Solar,2010,0
+Canada,BC,CER_HighDemand,Wind,2010,105.9
+Canada,BC,DSF,Wind,2010,105.9
+Canada,BC,EPRI,Wind,2010,105.9
+Canada,BC,IET,Wind,2010,105.9
+Canada,BC,JANDG,Wind,2010,105.9
+Canada,Maritimes,CER_HighDemand,Hydro,2010,1340.8600000000001
+Canada,Maritimes,DSF,Hydro,2010,1340.8600000000001
+Canada,Maritimes,EPRI,Hydro,2010,1340.8600000000001
+Canada,Maritimes,IET,Hydro,2010,1340.8600000000001
+Canada,Maritimes,JANDG,Hydro,2010,1340.8600000000001
+Canada,Maritimes,CER_HighDemand,Natural Gas,2010,4970.663
+Canada,Maritimes,DSF,Natural Gas,2010,4970.663
+Canada,Maritimes,EPRI,Natural Gas,2010,4970.663
+Canada,Maritimes,IET,Natural Gas,2010,4970.663
+Canada,Maritimes,JANDG,Natural Gas,2010,4970.663
+Canada,Maritimes,CER_HighDemand,Nuclear,2010,0
+Canada,Maritimes,DSF,Nuclear,2010,0
+Canada,Maritimes,EPRI,Nuclear,2010,0
+Canada,Maritimes,IET,Nuclear,2010,0
+Canada,Maritimes,JANDG,Nuclear,2010,0
+Canada,Maritimes,CER_HighDemand,Solar,2010,0
+Canada,Maritimes,DSF,Solar,2010,0
+Canada,Maritimes,EPRI,Solar,2010,0
+Canada,Maritimes,IET,Solar,2010,0
+Canada,Maritimes,JANDG,Solar,2010,0
+Canada,Maritimes,CER_HighDemand,Wind,2010,593.52
+Canada,Maritimes,DSF,Wind,2010,593.52
+Canada,Maritimes,EPRI,Wind,2010,593.52
+Canada,Maritimes,IET,Wind,2010,593.52
+Canada,Maritimes,JANDG,Wind,2010,593.52
+Canada,MB,CER_HighDemand,Hydro,2010,5054.21
+Canada,MB,DSF,Hydro,2010,5054.21
+Canada,MB,EPRI,Hydro,2010,5054.21
+Canada,MB,IET,Hydro,2010,5054.21
+Canada,MB,JANDG,Hydro,2010,5054.21
+Canada,MB,CER_HighDemand,Natural Gas,2010,501.18
+Canada,MB,DSF,Natural Gas,2010,501.18
+Canada,MB,EPRI,Natural Gas,2010,501.18
+Canada,MB,IET,Natural Gas,2010,501.18
+Canada,MB,JANDG,Natural Gas,2010,501.18
+Canada,MB,CER_HighDemand,Nuclear,2010,0
+Canada,MB,DSF,Nuclear,2010,0
+Canada,MB,EPRI,Nuclear,2010,0
+Canada,MB,IET,Nuclear,2010,0
+Canada,MB,JANDG,Nuclear,2010,0
+Canada,MB,CER_HighDemand,Solar,2010,0
+Canada,MB,DSF,Solar,2010,0
+Canada,MB,EPRI,Solar,2010,0
+Canada,MB,IET,Solar,2010,0
+Canada,MB,JANDG,Solar,2010,0
+Canada,MB,CER_HighDemand,Wind,2010,103.95
+Canada,MB,DSF,Wind,2010,103.95
+Canada,MB,EPRI,Wind,2010,103.95
+Canada,MB,IET,Wind,2010,103.95
+Canada,MB,JANDG,Wind,2010,103.95
+Canada,NB,CER_HighDemand,Hydro,2010,947.11
+Canada,NB,DSF,Hydro,2010,947.11
+Canada,NB,EPRI,Hydro,2010,947.11
+Canada,NB,IET,Hydro,2010,947.11
+Canada,NB,JANDG,Hydro,2010,947.11
+Canada,NB,CER_HighDemand,Natural Gas,2010,2849.238
+Canada,NB,DSF,Natural Gas,2010,2849.238
+Canada,NB,EPRI,Natural Gas,2010,2849.238
+Canada,NB,IET,Natural Gas,2010,2849.238
+Canada,NB,JANDG,Natural Gas,2010,2849.238
+Canada,NB,CER_HighDemand,Nuclear,2010,0
+Canada,NB,DSF,Nuclear,2010,0
+Canada,NB,EPRI,Nuclear,2010,0
+Canada,NB,IET,Nuclear,2010,0
+Canada,NB,JANDG,Nuclear,2010,0
+Canada,NB,CER_HighDemand,Solar,2010,0
+Canada,NB,DSF,Solar,2010,0
+Canada,NB,EPRI,Solar,2010,0
+Canada,NB,IET,Solar,2010,0
+Canada,NB,JANDG,Solar,2010,0
+Canada,NB,CER_HighDemand,Wind,2010,249
+Canada,NB,DSF,Wind,2010,249
+Canada,NB,EPRI,Wind,2010,249
+Canada,NB,IET,Wind,2010,249
+Canada,NB,JANDG,Wind,2010,249
+Canada,NL,CER_HighDemand,Hydro,2010,6781.05
+Canada,NL,DSF,Hydro,2010,6781.05
+Canada,NL,EPRI,Hydro,2010,6781.05
+Canada,NL,IET,Hydro,2010,6781.05
+Canada,NL,JANDG,Hydro,2010,6781.05
+Canada,NL,CER_HighDemand,Natural Gas,2010,584.2
+Canada,NL,DSF,Natural Gas,2010,584.2
+Canada,NL,EPRI,Natural Gas,2010,584.2
+Canada,NL,IET,Natural Gas,2010,584.2
+Canada,NL,JANDG,Natural Gas,2010,584.2
+Canada,NL,CER_HighDemand,Nuclear,2010,0
+Canada,NL,DSF,Nuclear,2010,0
+Canada,NL,EPRI,Nuclear,2010,0
+Canada,NL,IET,Nuclear,2010,0
+Canada,NL,JANDG,Nuclear,2010,0
+Canada,NL,CER_HighDemand,Solar,2010,0
+Canada,NL,DSF,Solar,2010,0
+Canada,NL,EPRI,Solar,2010,0
+Canada,NL,IET,Solar,2010,0
+Canada,NL,JANDG,Solar,2010,0
+Canada,NL,CER_HighDemand,Wind,2010,27
+Canada,NL,DSF,Wind,2010,27
+Canada,NL,EPRI,Wind,2010,27
+Canada,NL,IET,Wind,2010,27
+Canada,NL,JANDG,Wind,2010,27
+Canada,NS,CER_HighDemand,Hydro,2010,393.75
+Canada,NS,DSF,Hydro,2010,393.75
+Canada,NS,EPRI,Hydro,2010,393.75
+Canada,NS,IET,Hydro,2010,393.75
+Canada,NS,JANDG,Hydro,2010,393.75
+Canada,NS,CER_HighDemand,Natural Gas,2010,2006.425
+Canada,NS,DSF,Natural Gas,2010,2006.425
+Canada,NS,EPRI,Natural Gas,2010,2006.425
+Canada,NS,IET,Natural Gas,2010,2006.425
+Canada,NS,JANDG,Natural Gas,2010,2006.425
+Canada,NS,CER_HighDemand,Nuclear,2010,0
+Canada,NS,DSF,Nuclear,2010,0
+Canada,NS,EPRI,Nuclear,2010,0
+Canada,NS,IET,Nuclear,2010,0
+Canada,NS,JANDG,Nuclear,2010,0
+Canada,NS,CER_HighDemand,Solar,2010,0
+Canada,NS,DSF,Solar,2010,0
+Canada,NS,EPRI,Solar,2010,0
+Canada,NS,IET,Solar,2010,0
+Canada,NS,JANDG,Solar,2010,0
+Canada,NS,CER_HighDemand,Wind,2010,192.96
+Canada,NS,DSF,Wind,2010,192.96
+Canada,NS,EPRI,Wind,2010,192.96
+Canada,NS,IET,Wind,2010,192.96
+Canada,NS,JANDG,Wind,2010,192.96
+Canada,NT,CER_HighDemand,Hydro,2010,55.7
+Canada,NT,DSF,Hydro,2010,55.7
+Canada,NT,EPRI,Hydro,2010,55.7
+Canada,NT,IET,Hydro,2010,55.7
+Canada,NT,JANDG,Hydro,2010,55.7
+Canada,NT,CER_HighDemand,Natural Gas,2010,126.998
+Canada,NT,DSF,Natural Gas,2010,126.998
+Canada,NT,EPRI,Natural Gas,2010,126.998
+Canada,NT,IET,Natural Gas,2010,126.998
+Canada,NT,JANDG,Natural Gas,2010,126.998
+Canada,NT,CER_HighDemand,Nuclear,2010,0
+Canada,NT,DSF,Nuclear,2010,0
+Canada,NT,EPRI,Nuclear,2010,0
+Canada,NT,IET,Nuclear,2010,0
+Canada,NT,JANDG,Nuclear,2010,0
+Canada,NT,CER_HighDemand,Solar,2010,0
+Canada,NT,DSF,Solar,2010,0
+Canada,NT,EPRI,Solar,2010,0
+Canada,NT,IET,Solar,2010,0
+Canada,NT,JANDG,Solar,2010,0
+Canada,NT,CER_HighDemand,Wind,2010,0
+Canada,NT,DSF,Wind,2010,0
+Canada,NT,EPRI,Wind,2010,0
+Canada,NT,IET,Wind,2010,0
+Canada,NT,JANDG,Wind,2010,0
+Canada,NU,CER_HighDemand,Hydro,2010,0
+Canada,NU,DSF,Hydro,2010,0
+Canada,NU,EPRI,Hydro,2010,0
+Canada,NU,IET,Hydro,2010,0
+Canada,NU,JANDG,Hydro,2010,0
+Canada,NU,CER_HighDemand,Natural Gas,2010,54.275
+Canada,NU,DSF,Natural Gas,2010,54.275
+Canada,NU,EPRI,Natural Gas,2010,54.275
+Canada,NU,IET,Natural Gas,2010,54.275
+Canada,NU,JANDG,Natural Gas,2010,54.275
+Canada,NU,CER_HighDemand,Nuclear,2010,0
+Canada,NU,DSF,Nuclear,2010,0
+Canada,NU,EPRI,Nuclear,2010,0
+Canada,NU,IET,Nuclear,2010,0
+Canada,NU,JANDG,Nuclear,2010,0
+Canada,NU,CER_HighDemand,Solar,2010,0
+Canada,NU,DSF,Solar,2010,0
+Canada,NU,EPRI,Solar,2010,0
+Canada,NU,IET,Solar,2010,0
+Canada,NU,JANDG,Solar,2010,0
+Canada,NU,CER_HighDemand,Wind,2010,0
+Canada,NU,DSF,Wind,2010,0
+Canada,NU,EPRI,Wind,2010,0
+Canada,NU,IET,Wind,2010,0
+Canada,NU,JANDG,Wind,2010,0
+Canada,ON,CER_HighDemand,Hydro,2010,8405.678
+Canada,ON,DSF,Hydro,2010,8405.678
+Canada,ON,EPRI,Hydro,2010,8405.678
+Canada,ON,IET,Hydro,2010,8405.678
+Canada,ON,JANDG,Hydro,2010,8405.678
+Canada,ON,CER_HighDemand,Natural Gas,2010,12944.4
+Canada,ON,DSF,Natural Gas,2010,12944.4
+Canada,ON,EPRI,Natural Gas,2010,12944.4
+Canada,ON,IET,Natural Gas,2010,12944.4
+Canada,ON,JANDG,Natural Gas,2010,12944.4
+Canada,ON,CER_HighDemand,Nuclear,2010,11990
+Canada,ON,DSF,Nuclear,2010,11990
+Canada,ON,EPRI,Nuclear,2010,11990
+Canada,ON,IET,Nuclear,2010,11990
+Canada,ON,JANDG,Nuclear,2010,11990
+Canada,ON,CER_HighDemand,Solar,2010,108.4
+Canada,ON,DSF,Solar,2010,108.4
+Canada,ON,EPRI,Solar,2010,108.4
+Canada,ON,IET,Solar,2010,108.4
+Canada,ON,JANDG,Solar,2010,108.4
+Canada,ON,CER_HighDemand,Wind,2010,1378.129
+Canada,ON,DSF,Wind,2010,1378.129
+Canada,ON,EPRI,Wind,2010,1378.129
+Canada,ON,IET,Wind,2010,1378.129
+Canada,ON,JANDG,Wind,2010,1378.129
+Canada,PE,CER_HighDemand,Hydro,2010,0
+Canada,PE,DSF,Hydro,2010,0
+Canada,PE,EPRI,Hydro,2010,0
+Canada,PE,IET,Hydro,2010,0
+Canada,PE,JANDG,Hydro,2010,0
+Canada,PE,CER_HighDemand,Natural Gas,2010,115
+Canada,PE,DSF,Natural Gas,2010,115
+Canada,PE,EPRI,Natural Gas,2010,115
+Canada,PE,IET,Natural Gas,2010,115
+Canada,PE,JANDG,Natural Gas,2010,115
+Canada,PE,CER_HighDemand,Nuclear,2010,0
+Canada,PE,DSF,Nuclear,2010,0
+Canada,PE,EPRI,Nuclear,2010,0
+Canada,PE,IET,Nuclear,2010,0
+Canada,PE,JANDG,Nuclear,2010,0
+Canada,PE,CER_HighDemand,Solar,2010,0
+Canada,PE,DSF,Solar,2010,0
+Canada,PE,EPRI,Solar,2010,0
+Canada,PE,IET,Solar,2010,0
+Canada,PE,JANDG,Solar,2010,0
+Canada,PE,CER_HighDemand,Wind,2010,151.56
+Canada,PE,DSF,Wind,2010,151.56
+Canada,PE,EPRI,Wind,2010,151.56
+Canada,PE,IET,Wind,2010,151.56
+Canada,PE,JANDG,Wind,2010,151.56
+Canada,QC,CER_HighDemand,Hydro,2010,38426.46
+Canada,QC,DSF,Hydro,2010,38426.46
+Canada,QC,EPRI,Hydro,2010,38426.46
+Canada,QC,IET,Hydro,2010,38426.46
+Canada,QC,JANDG,Hydro,2010,38426.46
+Canada,QC,CER_HighDemand,Natural Gas,2010,2343.2329999999997
+Canada,QC,DSF,Natural Gas,2010,2343.2329999999997
+Canada,QC,EPRI,Natural Gas,2010,2343.2329999999997
+Canada,QC,IET,Natural Gas,2010,2343.2329999999997
+Canada,QC,JANDG,Natural Gas,2010,2343.2329999999997
+Canada,QC,CER_HighDemand,Nuclear,2010,675
+Canada,QC,DSF,Nuclear,2010,675
+Canada,QC,EPRI,Nuclear,2010,675
+Canada,QC,IET,Nuclear,2010,675
+Canada,QC,JANDG,Nuclear,2010,675
+Canada,QC,CER_HighDemand,Solar,2010,0
+Canada,QC,DSF,Solar,2010,0
+Canada,QC,EPRI,Solar,2010,0
+Canada,QC,IET,Solar,2010,0
+Canada,QC,JANDG,Solar,2010,0
+Canada,QC,CER_HighDemand,Wind,2010,786.3
+Canada,QC,DSF,Wind,2010,786.3
+Canada,QC,EPRI,Wind,2010,786.3
+Canada,QC,IET,Wind,2010,786.3
+Canada,QC,JANDG,Wind,2010,786.3
+Canada,QCNL,CER_HighDemand,Hydro,2010,45207.51
+Canada,QCNL,DSF,Hydro,2010,45207.51
+Canada,QCNL,EPRI,Hydro,2010,45207.51
+Canada,QCNL,IET,Hydro,2010,45207.51
+Canada,QCNL,JANDG,Hydro,2010,45207.51
+Canada,QCNL,CER_HighDemand,Natural Gas,2010,2927.433
+Canada,QCNL,DSF,Natural Gas,2010,2927.433
+Canada,QCNL,EPRI,Natural Gas,2010,2927.433
+Canada,QCNL,IET,Natural Gas,2010,2927.433
+Canada,QCNL,JANDG,Natural Gas,2010,2927.433
+Canada,QCNL,CER_HighDemand,Nuclear,2010,675
+Canada,QCNL,DSF,Nuclear,2010,675
+Canada,QCNL,EPRI,Nuclear,2010,675
+Canada,QCNL,IET,Nuclear,2010,675
+Canada,QCNL,JANDG,Nuclear,2010,675
+Canada,QCNL,CER_HighDemand,Solar,2010,0
+Canada,QCNL,DSF,Solar,2010,0
+Canada,QCNL,EPRI,Solar,2010,0
+Canada,QCNL,IET,Solar,2010,0
+Canada,QCNL,JANDG,Solar,2010,0
+Canada,QCNL,CER_HighDemand,Wind,2010,813.3
+Canada,QCNL,DSF,Wind,2010,813.3
+Canada,QCNL,EPRI,Wind,2010,813.3
+Canada,QCNL,IET,Wind,2010,813.3
+Canada,QCNL,JANDG,Wind,2010,813.3
+Canada,SK,CER_HighDemand,Hydro,2010,855.96
+Canada,SK,DSF,Hydro,2010,855.96
+Canada,SK,EPRI,Hydro,2010,855.96
+Canada,SK,IET,Hydro,2010,855.96
+Canada,SK,JANDG,Hydro,2010,855.96
+Canada,SK,CER_HighDemand,Natural Gas,2010,3158.837
+Canada,SK,DSF,Natural Gas,2010,3158.837
+Canada,SK,EPRI,Natural Gas,2010,3158.837
+Canada,SK,IET,Natural Gas,2010,3158.837
+Canada,SK,JANDG,Natural Gas,2010,3158.837
+Canada,SK,CER_HighDemand,Nuclear,2010,0
+Canada,SK,DSF,Nuclear,2010,0
+Canada,SK,EPRI,Nuclear,2010,0
+Canada,SK,IET,Nuclear,2010,0
+Canada,SK,JANDG,Nuclear,2010,0
+Canada,SK,CER_HighDemand,Solar,2010,0
+Canada,SK,DSF,Solar,2010,0
+Canada,SK,EPRI,Solar,2010,0
+Canada,SK,IET,Solar,2010,0
+Canada,SK,JANDG,Solar,2010,0
+Canada,SK,CER_HighDemand,Wind,2010,171.18
+Canada,SK,DSF,Wind,2010,171.18
+Canada,SK,EPRI,Wind,2010,171.18
+Canada,SK,IET,Wind,2010,171.18
+Canada,SK,JANDG,Wind,2010,171.18
+Canada,Terr,CER_HighDemand,Hydro,2010,133.60000000000002
+Canada,Terr,DSF,Hydro,2010,133.60000000000002
+Canada,Terr,EPRI,Hydro,2010,133.60000000000002
+Canada,Terr,IET,Hydro,2010,133.60000000000002
+Canada,Terr,JANDG,Hydro,2010,133.60000000000002
+Canada,Terr,CER_HighDemand,Natural Gas,2010,214.753
+Canada,Terr,DSF,Natural Gas,2010,214.753
+Canada,Terr,EPRI,Natural Gas,2010,214.753
+Canada,Terr,IET,Natural Gas,2010,214.753
+Canada,Terr,JANDG,Natural Gas,2010,214.753
+Canada,Terr,CER_HighDemand,Nuclear,2010,0
+Canada,Terr,DSF,Nuclear,2010,0
+Canada,Terr,EPRI,Nuclear,2010,0
+Canada,Terr,IET,Nuclear,2010,0
+Canada,Terr,JANDG,Nuclear,2010,0
+Canada,Terr,CER_HighDemand,Solar,2010,0
+Canada,Terr,DSF,Solar,2010,0
+Canada,Terr,EPRI,Solar,2010,0
+Canada,Terr,IET,Solar,2010,0
+Canada,Terr,JANDG,Solar,2010,0
+Canada,Terr,CER_HighDemand,Wind,2010,0.81
+Canada,Terr,DSF,Wind,2010,0.81
+Canada,Terr,EPRI,Wind,2010,0.81
+Canada,Terr,IET,Wind,2010,0.81
+Canada,Terr,JANDG,Wind,2010,0.81
+Canada,YT,CER_HighDemand,Hydro,2010,77.9
+Canada,YT,DSF,Hydro,2010,77.9
+Canada,YT,EPRI,Hydro,2010,77.9
+Canada,YT,IET,Hydro,2010,77.9
+Canada,YT,JANDG,Hydro,2010,77.9
+Canada,YT,CER_HighDemand,Natural Gas,2010,33.48
+Canada,YT,DSF,Natural Gas,2010,33.48
+Canada,YT,EPRI,Natural Gas,2010,33.48
+Canada,YT,IET,Natural Gas,2010,33.48
+Canada,YT,JANDG,Natural Gas,2010,33.48
+Canada,YT,CER_HighDemand,Nuclear,2010,0
+Canada,YT,DSF,Nuclear,2010,0
+Canada,YT,EPRI,Nuclear,2010,0
+Canada,YT,IET,Nuclear,2010,0
+Canada,YT,JANDG,Nuclear,2010,0
+Canada,YT,CER_HighDemand,Solar,2010,0
+Canada,YT,DSF,Solar,2010,0
+Canada,YT,EPRI,Solar,2010,0
+Canada,YT,IET,Solar,2010,0
+Canada,YT,JANDG,Solar,2010,0
+Canada,YT,CER_HighDemand,Wind,2010,0.81
+Canada,YT,DSF,Wind,2010,0.81
+Canada,YT,EPRI,Wind,2010,0.81
+Canada,YT,IET,Wind,2010,0.81
+Canada,YT,JANDG,Wind,2010,0.81
+Canada,AB,CER_HighDemand,Hydro,2017,1217.82
+Canada,AB,DSF,Hydro,2017,1217.82
+Canada,AB,EPRI,Hydro,2017,1217.82
+Canada,AB,IET,Hydro,2017,1217.82
+Canada,AB,JANDG,Hydro,2017,1217.82
+Canada,AB,CER_HighDemand,Natural Gas,2017,12651.25
+Canada,AB,DSF,Natural Gas,2017,12651.25
+Canada,AB,EPRI,Natural Gas,2017,12651.25
+Canada,AB,IET,Natural Gas,2017,12651.25
+Canada,AB,JANDG,Natural Gas,2017,12651.25
+Canada,AB,CER_HighDemand,Nuclear,2017,0
+Canada,AB,DSF,Nuclear,2017,0
+Canada,AB,EPRI,Nuclear,2017,0
+Canada,AB,IET,Nuclear,2017,0
+Canada,AB,JANDG,Nuclear,2017,0
+Canada,AB,CER_HighDemand,Solar,2017,1.95
+Canada,AB,DSF,Solar,2017,1.95
+Canada,AB,EPRI,Solar,2017,1.95
+Canada,AB,IET,Solar,2017,1.95
+Canada,AB,JANDG,Solar,2017,1.95
+Canada,AB,CER_HighDemand,Wind,2017,1524.449
+Canada,AB,DSF,Wind,2017,1524.449
+Canada,AB,EPRI,Wind,2017,1524.449
+Canada,AB,IET,Wind,2017,1524.449
+Canada,AB,JANDG,Wind,2017,1524.449
+Canada,BC,CER_HighDemand,Hydro,2017,15406.804
+Canada,BC,DSF,Hydro,2017,15406.804
+Canada,BC,EPRI,Hydro,2017,15406.804
+Canada,BC,IET,Hydro,2017,15406.804
+Canada,BC,JANDG,Hydro,2017,15406.804
+Canada,BC,CER_HighDemand,Natural Gas,2017,1544.628
+Canada,BC,DSF,Natural Gas,2017,1544.628
+Canada,BC,EPRI,Natural Gas,2017,1544.628
+Canada,BC,IET,Natural Gas,2017,1544.628
+Canada,BC,JANDG,Natural Gas,2017,1544.628
+Canada,BC,CER_HighDemand,Nuclear,2017,0
+Canada,BC,DSF,Nuclear,2017,0
+Canada,BC,EPRI,Nuclear,2017,0
+Canada,BC,IET,Nuclear,2017,0
+Canada,BC,JANDG,Nuclear,2017,0
+Canada,BC,CER_HighDemand,Solar,2017,0
+Canada,BC,DSF,Solar,2017,0
+Canada,BC,EPRI,Solar,2017,0
+Canada,BC,IET,Solar,2017,0
+Canada,BC,JANDG,Solar,2017,0
+Canada,BC,CER_HighDemand,Wind,2017,713.9
+Canada,BC,DSF,Wind,2017,713.9
+Canada,BC,EPRI,Wind,2017,713.9
+Canada,BC,IET,Wind,2017,713.9
+Canada,BC,JANDG,Wind,2017,713.9
+Canada,Maritimes,CER_HighDemand,Hydro,2017,1357.38
+Canada,Maritimes,DSF,Hydro,2017,1357.38
+Canada,Maritimes,EPRI,Hydro,2017,1357.38
+Canada,Maritimes,IET,Hydro,2017,1357.38
+Canada,Maritimes,JANDG,Hydro,2017,1357.38
+Canada,Maritimes,CER_HighDemand,Natural Gas,2017,4374.34
+Canada,Maritimes,DSF,Natural Gas,2017,4374.34
+Canada,Maritimes,EPRI,Natural Gas,2017,4374.34
+Canada,Maritimes,IET,Natural Gas,2017,4374.34
+Canada,Maritimes,JANDG,Natural Gas,2017,4374.34
+Canada,Maritimes,CER_HighDemand,Nuclear,2017,705
+Canada,Maritimes,DSF,Nuclear,2017,705
+Canada,Maritimes,EPRI,Nuclear,2017,705
+Canada,Maritimes,IET,Nuclear,2017,705
+Canada,Maritimes,JANDG,Nuclear,2017,705
+Canada,Maritimes,CER_HighDemand,Solar,2017,0
+Canada,Maritimes,DSF,Solar,2017,0
+Canada,Maritimes,EPRI,Solar,2017,0
+Canada,Maritimes,IET,Solar,2017,0
+Canada,Maritimes,JANDG,Solar,2017,0
+Canada,Maritimes,CER_HighDemand,Wind,2017,1111.7
+Canada,Maritimes,DSF,Wind,2017,1111.7
+Canada,Maritimes,EPRI,Wind,2017,1111.7
+Canada,Maritimes,IET,Wind,2017,1111.7
+Canada,Maritimes,JANDG,Wind,2017,1111.7
+Canada,MB,CER_HighDemand,Hydro,2017,5461.38
+Canada,MB,DSF,Hydro,2017,5461.38
+Canada,MB,EPRI,Hydro,2017,5461.38
+Canada,MB,IET,Hydro,2017,5461.38
+Canada,MB,JANDG,Hydro,2017,5461.38
+Canada,MB,CER_HighDemand,Natural Gas,2017,567.82
+Canada,MB,DSF,Natural Gas,2017,567.82
+Canada,MB,EPRI,Natural Gas,2017,567.82
+Canada,MB,IET,Natural Gas,2017,567.82
+Canada,MB,JANDG,Natural Gas,2017,567.82
+Canada,MB,CER_HighDemand,Nuclear,2017,0
+Canada,MB,DSF,Nuclear,2017,0
+Canada,MB,EPRI,Nuclear,2017,0
+Canada,MB,IET,Nuclear,2017,0
+Canada,MB,JANDG,Nuclear,2017,0
+Canada,MB,CER_HighDemand,Solar,2017,0
+Canada,MB,DSF,Solar,2017,0
+Canada,MB,EPRI,Solar,2017,0
+Canada,MB,IET,Solar,2017,0
+Canada,MB,JANDG,Solar,2017,0
+Canada,MB,CER_HighDemand,Wind,2017,258.45
+Canada,MB,DSF,Wind,2017,258.45
+Canada,MB,EPRI,Wind,2017,258.45
+Canada,MB,IET,Wind,2017,258.45
+Canada,MB,JANDG,Wind,2017,258.45
+Canada,NB,CER_HighDemand,Hydro,2017,967.5
+Canada,NB,DSF,Hydro,2017,967.5
+Canada,NB,EPRI,Hydro,2017,967.5
+Canada,NB,IET,Hydro,2017,967.5
+Canada,NB,JANDG,Hydro,2017,967.5
+Canada,NB,CER_HighDemand,Natural Gas,2017,2255.03
+Canada,NB,DSF,Natural Gas,2017,2255.03
+Canada,NB,EPRI,Natural Gas,2017,2255.03
+Canada,NB,IET,Natural Gas,2017,2255.03
+Canada,NB,JANDG,Natural Gas,2017,2255.03
+Canada,NB,CER_HighDemand,Nuclear,2017,705
+Canada,NB,DSF,Nuclear,2017,705
+Canada,NB,EPRI,Nuclear,2017,705
+Canada,NB,IET,Nuclear,2017,705
+Canada,NB,JANDG,Nuclear,2017,705
+Canada,NB,CER_HighDemand,Solar,2017,0
+Canada,NB,DSF,Solar,2017,0
+Canada,NB,EPRI,Solar,2017,0
+Canada,NB,IET,Solar,2017,0
+Canada,NB,JANDG,Solar,2017,0
+Canada,NB,CER_HighDemand,Wind,2017,294
+Canada,NB,DSF,Wind,2017,294
+Canada,NB,EPRI,Wind,2017,294
+Canada,NB,IET,Wind,2017,294
+Canada,NB,JANDG,Wind,2017,294
+Canada,NL,CER_HighDemand,Hydro,2017,6761.915
+Canada,NL,DSF,Hydro,2017,6761.915
+Canada,NL,EPRI,Hydro,2017,6761.915
+Canada,NL,IET,Hydro,2017,6761.915
+Canada,NL,JANDG,Hydro,2017,6761.915
+Canada,NL,CER_HighDemand,Natural Gas,2017,587.992
+Canada,NL,DSF,Natural Gas,2017,587.992
+Canada,NL,EPRI,Natural Gas,2017,587.992
+Canada,NL,IET,Natural Gas,2017,587.992
+Canada,NL,JANDG,Natural Gas,2017,587.992
+Canada,NL,CER_HighDemand,Nuclear,2017,0
+Canada,NL,DSF,Nuclear,2017,0
+Canada,NL,EPRI,Nuclear,2017,0
+Canada,NL,IET,Nuclear,2017,0
+Canada,NL,JANDG,Nuclear,2017,0
+Canada,NL,CER_HighDemand,Solar,2017,0
+Canada,NL,DSF,Solar,2017,0
+Canada,NL,EPRI,Solar,2017,0
+Canada,NL,IET,Solar,2017,0
+Canada,NL,JANDG,Solar,2017,0
+Canada,NL,CER_HighDemand,Wind,2017,54.39
+Canada,NL,DSF,Wind,2017,54.39
+Canada,NL,EPRI,Wind,2017,54.39
+Canada,NL,IET,Wind,2017,54.39
+Canada,NL,JANDG,Wind,2017,54.39
+Canada,NS,CER_HighDemand,Hydro,2017,389.88
+Canada,NS,DSF,Hydro,2017,389.88
+Canada,NS,EPRI,Hydro,2017,389.88
+Canada,NS,IET,Hydro,2017,389.88
+Canada,NS,JANDG,Hydro,2017,389.88
+Canada,NS,CER_HighDemand,Natural Gas,2017,1972.76
+Canada,NS,DSF,Natural Gas,2017,1972.76
+Canada,NS,EPRI,Natural Gas,2017,1972.76
+Canada,NS,IET,Natural Gas,2017,1972.76
+Canada,NS,JANDG,Natural Gas,2017,1972.76
+Canada,NS,CER_HighDemand,Nuclear,2017,0
+Canada,NS,DSF,Nuclear,2017,0
+Canada,NS,EPRI,Nuclear,2017,0
+Canada,NS,IET,Nuclear,2017,0
+Canada,NS,JANDG,Nuclear,2017,0
+Canada,NS,CER_HighDemand,Solar,2017,0
+Canada,NS,DSF,Solar,2017,0
+Canada,NS,EPRI,Solar,2017,0
+Canada,NS,IET,Solar,2017,0
+Canada,NS,JANDG,Solar,2017,0
+Canada,NS,CER_HighDemand,Wind,2017,614.14
+Canada,NS,DSF,Wind,2017,614.14
+Canada,NS,EPRI,Wind,2017,614.14
+Canada,NS,IET,Wind,2017,614.14
+Canada,NS,JANDG,Wind,2017,614.14
+Canada,NT,CER_HighDemand,Hydro,2017,55.7
+Canada,NT,DSF,Hydro,2017,55.7
+Canada,NT,EPRI,Hydro,2017,55.7
+Canada,NT,IET,Hydro,2017,55.7
+Canada,NT,JANDG,Hydro,2017,55.7
+Canada,NT,CER_HighDemand,Natural Gas,2017,138.24599999999998
+Canada,NT,DSF,Natural Gas,2017,138.24599999999998
+Canada,NT,EPRI,Natural Gas,2017,138.24599999999998
+Canada,NT,IET,Natural Gas,2017,138.24599999999998
+Canada,NT,JANDG,Natural Gas,2017,138.24599999999998
+Canada,NT,CER_HighDemand,Nuclear,2017,0
+Canada,NT,DSF,Nuclear,2017,0
+Canada,NT,EPRI,Nuclear,2017,0
+Canada,NT,IET,Nuclear,2017,0
+Canada,NT,JANDG,Nuclear,2017,0
+Canada,NT,CER_HighDemand,Solar,2017,0
+Canada,NT,DSF,Solar,2017,0
+Canada,NT,EPRI,Solar,2017,0
+Canada,NT,IET,Solar,2017,0
+Canada,NT,JANDG,Solar,2017,0
+Canada,NT,CER_HighDemand,Wind,2017,9.2
+Canada,NT,DSF,Wind,2017,9.2
+Canada,NT,EPRI,Wind,2017,9.2
+Canada,NT,IET,Wind,2017,9.2
+Canada,NT,JANDG,Wind,2017,9.2
+Canada,NU,CER_HighDemand,Hydro,2017,0
+Canada,NU,DSF,Hydro,2017,0
+Canada,NU,EPRI,Hydro,2017,0
+Canada,NU,IET,Hydro,2017,0
+Canada,NU,JANDG,Hydro,2017,0
+Canada,NU,CER_HighDemand,Natural Gas,2017,78.415
+Canada,NU,DSF,Natural Gas,2017,78.415
+Canada,NU,EPRI,Natural Gas,2017,78.415
+Canada,NU,IET,Natural Gas,2017,78.415
+Canada,NU,JANDG,Natural Gas,2017,78.415
+Canada,NU,CER_HighDemand,Nuclear,2017,0
+Canada,NU,DSF,Nuclear,2017,0
+Canada,NU,EPRI,Nuclear,2017,0
+Canada,NU,IET,Nuclear,2017,0
+Canada,NU,JANDG,Nuclear,2017,0
+Canada,NU,CER_HighDemand,Solar,2017,0
+Canada,NU,DSF,Solar,2017,0
+Canada,NU,EPRI,Solar,2017,0
+Canada,NU,IET,Solar,2017,0
+Canada,NU,JANDG,Solar,2017,0
+Canada,NU,CER_HighDemand,Wind,2017,0
+Canada,NU,DSF,Wind,2017,0
+Canada,NU,EPRI,Wind,2017,0
+Canada,NU,IET,Wind,2017,0
+Canada,NU,JANDG,Wind,2017,0
+Canada,ON,CER_HighDemand,Hydro,2017,9122.375
+Canada,ON,DSF,Hydro,2017,9122.375
+Canada,ON,EPRI,Hydro,2017,9122.375
+Canada,ON,IET,Hydro,2017,9122.375
+Canada,ON,JANDG,Hydro,2017,9122.375
+Canada,ON,CER_HighDemand,Natural Gas,2017,10665.519
+Canada,ON,DSF,Natural Gas,2017,10665.519
+Canada,ON,EPRI,Natural Gas,2017,10665.519
+Canada,ON,IET,Natural Gas,2017,10665.519
+Canada,ON,JANDG,Natural Gas,2017,10665.519
+Canada,ON,CER_HighDemand,Nuclear,2017,13328
+Canada,ON,DSF,Nuclear,2017,13328
+Canada,ON,EPRI,Nuclear,2017,13328
+Canada,ON,IET,Nuclear,2017,13328
+Canada,ON,JANDG,Nuclear,2017,13328
+Canada,ON,CER_HighDemand,Solar,2017,2295.913
+Canada,ON,DSF,Solar,2017,2295.913
+Canada,ON,EPRI,Solar,2017,2295.913
+Canada,ON,IET,Solar,2017,2295.913
+Canada,ON,JANDG,Solar,2017,2295.913
+Canada,ON,CER_HighDemand,Wind,2017,5077.113
+Canada,ON,DSF,Wind,2017,5077.113
+Canada,ON,EPRI,Wind,2017,5077.113
+Canada,ON,IET,Wind,2017,5077.113
+Canada,ON,JANDG,Wind,2017,5077.113
+Canada,PE,CER_HighDemand,Hydro,2017,0
+Canada,PE,DSF,Hydro,2017,0
+Canada,PE,EPRI,Hydro,2017,0
+Canada,PE,IET,Hydro,2017,0
+Canada,PE,JANDG,Hydro,2017,0
+Canada,PE,CER_HighDemand,Natural Gas,2017,146.55
+Canada,PE,DSF,Natural Gas,2017,146.55
+Canada,PE,EPRI,Natural Gas,2017,146.55
+Canada,PE,IET,Natural Gas,2017,146.55
+Canada,PE,JANDG,Natural Gas,2017,146.55
+Canada,PE,CER_HighDemand,Nuclear,2017,0
+Canada,PE,DSF,Nuclear,2017,0
+Canada,PE,EPRI,Nuclear,2017,0
+Canada,PE,IET,Nuclear,2017,0
+Canada,PE,JANDG,Nuclear,2017,0
+Canada,PE,CER_HighDemand,Solar,2017,0
+Canada,PE,DSF,Solar,2017,0
+Canada,PE,EPRI,Solar,2017,0
+Canada,PE,IET,Solar,2017,0
+Canada,PE,JANDG,Solar,2017,0
+Canada,PE,CER_HighDemand,Wind,2017,203.56
+Canada,PE,DSF,Wind,2017,203.56
+Canada,PE,EPRI,Wind,2017,203.56
+Canada,PE,IET,Wind,2017,203.56
+Canada,PE,JANDG,Wind,2017,203.56
+Canada,QC,CER_HighDemand,Hydro,2017,40437.533
+Canada,QC,DSF,Hydro,2017,40437.533
+Canada,QC,EPRI,Hydro,2017,40437.533
+Canada,QC,IET,Hydro,2017,40437.533
+Canada,QC,JANDG,Hydro,2017,40437.533
+Canada,QC,CER_HighDemand,Natural Gas,2017,1499.021
+Canada,QC,DSF,Natural Gas,2017,1499.021
+Canada,QC,EPRI,Natural Gas,2017,1499.021
+Canada,QC,IET,Natural Gas,2017,1499.021
+Canada,QC,JANDG,Natural Gas,2017,1499.021
+Canada,QC,CER_HighDemand,Nuclear,2017,0
+Canada,QC,DSF,Nuclear,2017,0
+Canada,QC,EPRI,Nuclear,2017,0
+Canada,QC,IET,Nuclear,2017,0
+Canada,QC,JANDG,Nuclear,2017,0
+Canada,QC,CER_HighDemand,Solar,2017,0
+Canada,QC,DSF,Solar,2017,0
+Canada,QC,EPRI,Solar,2017,0
+Canada,QC,IET,Solar,2017,0
+Canada,QC,JANDG,Solar,2017,0
+Canada,QC,CER_HighDemand,Wind,2017,3432.273
+Canada,QC,DSF,Wind,2017,3432.273
+Canada,QC,EPRI,Wind,2017,3432.273
+Canada,QC,IET,Wind,2017,3432.273
+Canada,QC,JANDG,Wind,2017,3432.273
+Canada,QCNL,CER_HighDemand,Hydro,2017,47199.448000000004
+Canada,QCNL,DSF,Hydro,2017,47199.448000000004
+Canada,QCNL,EPRI,Hydro,2017,47199.448000000004
+Canada,QCNL,IET,Hydro,2017,47199.448000000004
+Canada,QCNL,JANDG,Hydro,2017,47199.448000000004
+Canada,QCNL,CER_HighDemand,Natural Gas,2017,2087.013
+Canada,QCNL,DSF,Natural Gas,2017,2087.013
+Canada,QCNL,EPRI,Natural Gas,2017,2087.013
+Canada,QCNL,IET,Natural Gas,2017,2087.013
+Canada,QCNL,JANDG,Natural Gas,2017,2087.013
+Canada,QCNL,CER_HighDemand,Nuclear,2017,0
+Canada,QCNL,DSF,Nuclear,2017,0
+Canada,QCNL,EPRI,Nuclear,2017,0
+Canada,QCNL,IET,Nuclear,2017,0
+Canada,QCNL,JANDG,Nuclear,2017,0
+Canada,QCNL,CER_HighDemand,Solar,2017,0
+Canada,QCNL,DSF,Solar,2017,0
+Canada,QCNL,EPRI,Solar,2017,0
+Canada,QCNL,IET,Solar,2017,0
+Canada,QCNL,JANDG,Solar,2017,0
+Canada,QCNL,CER_HighDemand,Wind,2017,3486.663
+Canada,QCNL,DSF,Wind,2017,3486.663
+Canada,QCNL,EPRI,Wind,2017,3486.663
+Canada,QCNL,IET,Wind,2017,3486.663
+Canada,QCNL,JANDG,Wind,2017,3486.663
+Canada,SK,CER_HighDemand,Hydro,2017,867.4
+Canada,SK,DSF,Hydro,2017,867.4
+Canada,SK,EPRI,Hydro,2017,867.4
+Canada,SK,IET,Hydro,2017,867.4
+Canada,SK,JANDG,Hydro,2017,867.4
+Canada,SK,CER_HighDemand,Natural Gas,2017,3554.342
+Canada,SK,DSF,Natural Gas,2017,3554.342
+Canada,SK,EPRI,Natural Gas,2017,3554.342
+Canada,SK,IET,Natural Gas,2017,3554.342
+Canada,SK,JANDG,Natural Gas,2017,3554.342
+Canada,SK,CER_HighDemand,Nuclear,2017,0
+Canada,SK,DSF,Nuclear,2017,0
+Canada,SK,EPRI,Nuclear,2017,0
+Canada,SK,IET,Nuclear,2017,0
+Canada,SK,JANDG,Nuclear,2017,0
+Canada,SK,CER_HighDemand,Solar,2017,0
+Canada,SK,DSF,Solar,2017,0
+Canada,SK,EPRI,Solar,2017,0
+Canada,SK,IET,Solar,2017,0
+Canada,SK,JANDG,Solar,2017,0
+Canada,SK,CER_HighDemand,Wind,2017,220.58
+Canada,SK,DSF,Wind,2017,220.58
+Canada,SK,EPRI,Wind,2017,220.58
+Canada,SK,IET,Wind,2017,220.58
+Canada,SK,JANDG,Wind,2017,220.58
+Canada,Terr,CER_HighDemand,Hydro,2017,151.015
+Canada,Terr,DSF,Hydro,2017,151.015
+Canada,Terr,EPRI,Hydro,2017,151.015
+Canada,Terr,IET,Hydro,2017,151.015
+Canada,Terr,JANDG,Hydro,2017,151.015
+Canada,Terr,CER_HighDemand,Natural Gas,2017,251.726
+Canada,Terr,DSF,Natural Gas,2017,251.726
+Canada,Terr,EPRI,Natural Gas,2017,251.726
+Canada,Terr,IET,Natural Gas,2017,251.726
+Canada,Terr,JANDG,Natural Gas,2017,251.726
+Canada,Terr,CER_HighDemand,Nuclear,2017,0
+Canada,Terr,DSF,Nuclear,2017,0
+Canada,Terr,EPRI,Nuclear,2017,0
+Canada,Terr,IET,Nuclear,2017,0
+Canada,Terr,JANDG,Nuclear,2017,0
+Canada,Terr,CER_HighDemand,Solar,2017,0
+Canada,Terr,DSF,Solar,2017,0
+Canada,Terr,EPRI,Solar,2017,0
+Canada,Terr,IET,Solar,2017,0
+Canada,Terr,JANDG,Solar,2017,0
+Canada,Terr,CER_HighDemand,Wind,2017,9.86
+Canada,Terr,DSF,Wind,2017,9.86
+Canada,Terr,EPRI,Wind,2017,9.86
+Canada,Terr,IET,Wind,2017,9.86
+Canada,Terr,JANDG,Wind,2017,9.86
+Canada,YT,CER_HighDemand,Hydro,2017,95.315
+Canada,YT,DSF,Hydro,2017,95.315
+Canada,YT,EPRI,Hydro,2017,95.315
+Canada,YT,IET,Hydro,2017,95.315
+Canada,YT,JANDG,Hydro,2017,95.315
+Canada,YT,CER_HighDemand,Natural Gas,2017,35.065
+Canada,YT,DSF,Natural Gas,2017,35.065
+Canada,YT,EPRI,Natural Gas,2017,35.065
+Canada,YT,IET,Natural Gas,2017,35.065
+Canada,YT,JANDG,Natural Gas,2017,35.065
+Canada,YT,CER_HighDemand,Nuclear,2017,0
+Canada,YT,DSF,Nuclear,2017,0
+Canada,YT,EPRI,Nuclear,2017,0
+Canada,YT,IET,Nuclear,2017,0
+Canada,YT,JANDG,Nuclear,2017,0
+Canada,YT,CER_HighDemand,Solar,2017,0
+Canada,YT,DSF,Solar,2017,0
+Canada,YT,EPRI,Solar,2017,0
+Canada,YT,IET,Solar,2017,0
+Canada,YT,JANDG,Solar,2017,0
+Canada,YT,CER_HighDemand,Wind,2017,0.66
+Canada,YT,DSF,Wind,2017,0.66
+Canada,YT,EPRI,Wind,2017,0.66
+Canada,YT,IET,Wind,2017,0.66
+Canada,YT,JANDG,Wind,2017,0.66
+Canada,AB,DSF,Biomass,2025,423
+Canada,AB,EPRI,Biomass,2025,519.462587
+Canada,AB,IET,Biomass,2025,393.3304551
+Canada,AB,JANDG,Biomass,2025,700
+Canada,AB,EPRI,Biomass CCUS,2025,0
+Canada,AB,JANDG,Biomass with CCUS,2025,0
+Canada,AB,EPRI,Distributed solar,2025,0
+Canada,AB,IET,Distributed solar,2025,34.27
+Canada,AB,EPRI,Energy efficiency,2025,0
+Canada,AB,DSF,Hydro,2025,924
+Canada,AB,EPRI,Hydro,2025,894.000942
+Canada,AB,IET,Hydro,2025,894
+Canada,AB,JANDG,Hydro,2025,1200
+Canada,AB,DSF,Natural Gas,2025,11443
+Canada,AB,EPRI,Natural Gas,2025,9724.892592
+Canada,AB,IET,Natural Gas,2025,8385.743333
+Canada,AB,JANDG,Natural Gas,2025,11100
+Canada,AB,DSF,Natural gas with CCUS,2025,0
+Canada,AB,EPRI,Natural gas with CCUS,2025,4263.70852
+Canada,AB,JANDG,Natural gas with CCUS,2025,100
+Canada,AB,DSF,Nuclear,2025,0
+Canada,AB,EPRI,Nuclear,2025,0.144212
+Canada,AB,IET,Nuclear,2025,0
+Canada,AB,JANDG,Nuclear,2025,0
+Canada,AB,DSF,Other fossil fuels,2025,0
+Canada,AB,EPRI,Other fossil fuels,2025,290.941498
+Canada,AB,IET,Other fossil fuels,2025,4452.1
+Canada,AB,JANDG,Other fossil fuels,2025,0
+Canada,AB,EPRI,Other renewables,2025,0
+Canada,AB,IET,Other renewables,2025,0
+Canada,AB,DSF,Solar,2025,1333
+Canada,AB,EPRI,Solar,2025,0.331374
+Canada,AB,IET,Solar,2025,17
+Canada,AB,JANDG,Solar,2025,1700
+Canada,AB,DSF,Storage,2025,0
+Canada,AB,EPRI,Storage,2025,0
+Canada,AB,IET,Storage,2025,17.91568049
+Canada,AB,DSF,Wind,2025,3303
+Canada,AB,EPRI,Wind,2025,3463.542365
+Canada,AB,IET,Wind,2025,1698.8754
+Canada,AB,JANDG,Wind,2025,3700
+Canada,BC,DSF,Biomass,2025,976
+Canada,BC,EPRI,Biomass,2025,752.333348
+Canada,BC,IET,Biomass,2025,1671.5110287
+Canada,BC,JANDG,Biomass,2025,1100
+Canada,BC,EPRI,Biomass CCUS,2025,0
+Canada,BC,JANDG,Biomass with CCUS,2025,0
+Canada,BC,EPRI,Distributed solar,2025,0
+Canada,BC,IET,Distributed solar,2025,10.235
+Canada,BC,EPRI,Energy efficiency,2025,0
+Canada,BC,DSF,Hydro,2025,17719
+Canada,BC,EPRI,Hydro,2025,16129.00097
+Canada,BC,IET,Hydro,2025,15368.8
+Canada,BC,JANDG,Hydro,2025,16500
+Canada,BC,DSF,Natural Gas,2025,526
+Canada,BC,EPRI,Natural Gas,2025,417.93655300000006
+Canada,BC,IET,Natural Gas,2025,524.3333333
+Canada,BC,JANDG,Natural Gas,2025,0
+Canada,BC,DSF,Natural gas with CCUS,2025,0
+Canada,BC,EPRI,Natural gas with CCUS,2025,0.676271
+Canada,BC,JANDG,Natural gas with CCUS,2025,0
+Canada,BC,DSF,Nuclear,2025,0
+Canada,BC,EPRI,Nuclear,2025,0.0679
+Canada,BC,IET,Nuclear,2025,0
+Canada,BC,JANDG,Nuclear,2025,0
+Canada,BC,DSF,Other fossil fuels,2025,0
+Canada,BC,EPRI,Other fossil fuels,2025,0.0864
+Canada,BC,IET,Other fossil fuels,2025,38.442
+Canada,BC,JANDG,Other fossil fuels,2025,0
+Canada,BC,EPRI,Other renewables,2025,0
+Canada,BC,IET,Other renewables,2025,0
+Canada,BC,DSF,Solar,2025,1
+Canada,BC,EPRI,Solar,2025,0.2173
+Canada,BC,IET,Solar,2025,0
+Canada,BC,JANDG,Solar,2025,0
+Canada,BC,DSF,Storage,2025,0
+Canada,BC,EPRI,Storage,2025,0
+Canada,BC,IET,Storage,2025,1.932543834
+Canada,BC,DSF,Wind,2025,728
+Canada,BC,EPRI,Wind,2025,2345.369566
+Canada,BC,IET,Wind,2025,712.5
+Canada,BC,JANDG,Wind,2025,900
+Canada,Maritimes,EPRI,Biomass,2025,746.158337
+Canada,Maritimes,JANDG,Biomass,2025,300
+Canada,Maritimes,EPRI,Biomass CCUS,2025,0
+Canada,Maritimes,JANDG,Biomass with CCUS,2025,0
+Canada,Maritimes,EPRI,Distributed solar,2025,0
+Canada,Maritimes,EPRI,Energy efficiency,2025,0
+Canada,Maritimes,EPRI,Hydro,2025,1349.001036
+Canada,Maritimes,JANDG,Hydro,2025,8100
+Canada,Maritimes,EPRI,Natural Gas,2025,985.9367149999998
+Canada,Maritimes,JANDG,Natural Gas,2025,800
+Canada,Maritimes,EPRI,Natural gas with CCUS,2025,0.128048
+Canada,Maritimes,JANDG,Natural gas with CCUS,2025,0
+Canada,Maritimes,EPRI,Nuclear,2025,558.152705
+Canada,Maritimes,JANDG,Nuclear,2025,700
+Canada,Maritimes,EPRI,Other fossil fuels,2025,1671.22547
+Canada,Maritimes,JANDG,Other fossil fuels,2025,4000
+Canada,Maritimes,EPRI,Other renewables,2025,0
+Canada,Maritimes,EPRI,Solar,2025,0.1353
+Canada,Maritimes,JANDG,Solar,2025,0
+Canada,Maritimes,EPRI,Storage,2025,0
+Canada,Maritimes,EPRI,Wind,2025,6545.976030999999
+Canada,Maritimes,JANDG,Wind,2025,1600
+Canada,MB,DSF,Biomass,2025,0
+Canada,MB,EPRI,Biomass,2025,0.0811
+Canada,MB,IET,Biomass,2025,22.8
+Canada,MB,JANDG,Biomass,2025,100
+Canada,MB,EPRI,Biomass CCUS,2025,0
+Canada,MB,JANDG,Biomass with CCUS,2025,0
+Canada,MB,EPRI,Distributed solar,2025,0
+Canada,MB,IET,Distributed solar,2025,10.88666667
+Canada,MB,EPRI,Energy efficiency,2025,0
+Canada,MB,DSF,Hydro,2025,5138
+Canada,MB,EPRI,Hydro,2025,5349.00103
+Canada,MB,IET,Hydro,2025,6044
+Canada,MB,JANDG,Hydro,2025,5500
+Canada,MB,DSF,Natural Gas,2025,289
+Canada,MB,EPRI,Natural Gas,2025,0.7927859999999999
+Canada,MB,IET,Natural Gas,2025,510
+Canada,MB,JANDG,Natural Gas,2025,300
+Canada,MB,DSF,Natural gas with CCUS,2025,0
+Canada,MB,EPRI,Natural gas with CCUS,2025,0.0319
+Canada,MB,JANDG,Natural gas with CCUS,2025,0
+Canada,MB,DSF,Nuclear,2025,0
+Canada,MB,EPRI,Nuclear,2025,0.03111
+Canada,MB,JANDG,Nuclear,2025,0
+Canada,MB,DSF,Other fossil fuels,2025,0
+Canada,MB,EPRI,Other fossil fuels,2025,0.0550999999999999
+Canada,MB,IET,Other fossil fuels,2025,10.32
+Canada,MB,JANDG,Other fossil fuels,2025,0
+Canada,MB,EPRI,Other renewables,2025,0
+Canada,MB,DSF,Solar,2025,0
+Canada,MB,EPRI,Solar,2025,0.0747
+Canada,MB,IET,Solar,2025,0
+Canada,MB,JANDG,Solar,2025,0
+Canada,MB,DSF,Storage,2025,0
+Canada,MB,EPRI,Storage,2025,0
+Canada,MB,IET,Storage,2025,1.430383333
+Canada,MB,DSF,Wind,2025,614
+Canada,MB,EPRI,Wind,2025,259.520324
+Canada,MB,IET,Wind,2025,258.45
+Canada,MB,JANDG,Wind,2025,400
+Canada,NB,DSF,Biomass,2025,119
+Canada,NB,IET,Biomass,2025,144.69304436
+Canada,NB,IET,Distributed solar,2025,459.1587557
+Canada,NB,DSF,Hydro,2025,944
+Canada,NB,IET,Hydro,2025,956
+Canada,NB,DSF,Natural Gas,2025,318
+Canada,NB,IET,Natural Gas,2025,348
+Canada,NB,DSF,Natural gas with CCUS,2025,0
+Canada,NB,DSF,Nuclear,2025,630
+Canada,NB,IET,Nuclear,2025,705
+Canada,NB,DSF,Other fossil fuels,2025,1144
+Canada,NB,IET,Other fossil fuels,2025,1970
+Canada,NB,DSF,Solar,2025,0
+Canada,NB,IET,Solar,2025,0
+Canada,NB,DSF,Storage,2025,0
+Canada,NB,IET,Storage,2025,88.38338198
+Canada,NB,DSF,Wind,2025,266
+Canada,NB,IET,Wind,2025,312.85
+Canada,NL,DSF,Biomass,2025,0
+Canada,NL,IET,Biomass,2025,0.002550807
+Canada,NL,IET,Distributed solar,2025,0.023
+Canada,NL,DSF,Hydro,2025,2479
+Canada,NL,IET,Hydro,2025,199.52
+Canada,NL,DSF,Natural Gas,2025,0
+Canada,NL,IET,Natural Gas,2025,15.3
+Canada,NL,DSF,Natural gas with CCUS,2025,0
+Canada,NL,DSF,Nuclear,2025,0
+Canada,NL,DSF,Other fossil fuels,2025,0
+Canada,NL,IET,Other fossil fuels,2025,598
+Canada,NL,IET,Other renewables,2025,9868
+Canada,NL,DSF,Solar,2025,0
+Canada,NL,DSF,Storage,2025,0
+Canada,NL,IET,Storage,2025,54.69
+Canada,NL,DSF,Wind,2025,54
+Canada,NL,IET,Wind,2025,9.646252978
+Canada,NS,DSF,Biomass,2025,97
+Canada,NS,IET,Biomass,2025,1480.575582
+Canada,NS,IET,Distributed solar,2025,222
+Canada,NS,DSF,Hydro,2025,554
+Canada,NS,IET,Hydro,2025,628.73135
+Canada,NS,DSF,Natural Gas,2025,143
+Canada,NS,IET,Natural Gas,2025,0
+Canada,NS,DSF,Natural gas with CCUS,2025,0
+Canada,NS,DSF,Nuclear,2025,0
+Canada,NS,IET,Nuclear,2025,208.7598016
+Canada,NS,DSF,Other fossil fuels,2025,312
+Canada,NS,IET,Other fossil fuels,2025,485.756666667
+Canada,NS,IET,Other renewables,2025,360
+Canada,NS,DSF,Solar,2025,0
+Canada,NS,IET,Solar,2025,0.897315509
+Canada,NS,DSF,Storage,2025,0
+Canada,NS,IET,Storage,2025,20
+Canada,NS,DSF,Wind,2025,2307
+Canada,NS,IET,Wind,2025,0.188440187
+Canada,NT,IET,Biomass,2025,0.803923301
+Canada,NT,IET,Distributed solar,2025,56.2
+Canada,NT,IET,Hydro,2025,95.46
+Canada,NT,IET,Natural Gas,2025,0
+Canada,NT,IET,Other fossil fuels,2025,26.99618182
+Canada,NT,IET,Storage,2025,9.2
+Canada,NT,IET,Wind,2025,0.122264413
+Canada,NU,IET,Biomass,2025,1.263991436
+Canada,NU,IET,Distributed solar,2025,0
+Canada,NU,IET,Hydro,2025,46.44
+Canada,NU,IET,Other fossil fuels,2025,0
+Canada,NU,IET,Solar,2025,11.26860461
+Canada,NU,IET,Storage,2025,28.31056537
+Canada,NU,IET,Wind,2025,205.5269319
+Canada,ON,DSF,Biomass,2025,290
+Canada,ON,EPRI,Biomass,2025,92.55582
+Canada,ON,IET,Biomass,2025,726.78139045
+Canada,ON,JANDG,Biomass,2025,1200
+Canada,ON,EPRI,Biomass CCUS,2025,0
+Canada,ON,JANDG,Biomass with CCUS,2025,0
+Canada,ON,EPRI,Distributed solar,2025,0
+Canada,ON,IET,Distributed solar,2025,200
+Canada,ON,EPRI,Energy efficiency,2025,0
+Canada,ON,DSF,Hydro,2025,9339
+Canada,ON,EPRI,Hydro,2025,8990.001035000001
+Canada,ON,IET,Hydro,2025,9250.9
+Canada,ON,JANDG,Hydro,2025,9100
+Canada,ON,DSF,Natural Gas,2025,6074
+Canada,ON,EPRI,Natural Gas,2025,11194.5568279
+Canada,ON,IET,Natural Gas,2025,10818.9
+Canada,ON,JANDG,Natural Gas,2025,5300
+Canada,ON,DSF,Natural gas with CCUS,2025,0
+Canada,ON,EPRI,Natural gas with CCUS,2025,2632.8450270000003
+Canada,ON,JANDG,Natural gas with CCUS,2025,0
+Canada,ON,DSF,Nuclear,2025,7527
+Canada,ON,EPRI,Nuclear,2025,9865.144223
+Canada,ON,IET,Nuclear,2025,7478
+Canada,ON,JANDG,Nuclear,2025,12300
+Canada,ON,DSF,Other fossil fuels,2025,0
+Canada,ON,EPRI,Other fossil fuels,2025,94.96291
+Canada,ON,IET,Other fossil fuels,2025,6036.670101000001
+Canada,ON,JANDG,Other fossil fuels,2025,1600
+Canada,ON,EPRI,Other renewables,2025,0
+Canada,ON,IET,Other renewables,2025,0
+Canada,ON,DSF,Solar,2025,1758
+Canada,ON,EPRI,Solar,2025,380.261377
+Canada,ON,IET,Solar,2025,2850.637879
+Canada,ON,JANDG,Solar,2025,4000
+Canada,ON,DSF,Storage,2025,174
+Canada,ON,EPRI,Storage,2025,0
+Canada,ON,IET,Storage,2025,3483.257011
+Canada,ON,DSF,Wind,2025,16392
+Canada,ON,EPRI,Wind,2025,6486.171036
+Canada,ON,IET,Wind,2025,5294.89
+Canada,ON,JANDG,Wind,2025,9000
+Canada,PE,DSF,Biomass,2025,1
+Canada,PE,IET,Biomass,2025,2.417397756
+Canada,PE,IET,Distributed solar,2025,1.916666667
+Canada,PE,DSF,Hydro,2025,0
+Canada,PE,DSF,Natural Gas,2025,0
+Canada,PE,DSF,Natural gas with CCUS,2025,0
+Canada,PE,DSF,Nuclear,2025,0
+Canada,PE,DSF,Other fossil fuels,2025,0
+Canada,PE,IET,Other fossil fuels,2025,160
+Canada,PE,IET,Other renewables,2025,0
+Canada,PE,DSF,Solar,2025,31
+Canada,PE,IET,Solar,2025,0
+Canada,PE,DSF,Storage,2025,0
+Canada,PE,IET,Storage,2025,0.438852693
+Canada,PE,DSF,Wind,2025,1040
+Canada,PE,IET,Wind,2025,203.6653714
+Canada,QC,DSF,Biomass,2025,418
+Canada,QC,IET,Biomass,2025,470.8728905
+Canada,QC,JANDG,Biomass,2025,300
+Canada,QC,JANDG,Biomass with CCUS,2025,0
+Canada,QC,IET,Distributed solar,2025,4.906666667
+Canada,QC,DSF,Hydro,2025,45972
+Canada,QC,IET,Hydro,2025,40947.16
+Canada,QC,JANDG,Hydro,2025,40400
+Canada,QC,DSF,Natural Gas,2025,966
+Canada,QC,IET,Natural Gas,2025,1011
+Canada,QC,JANDG,Natural Gas,2025,400
+Canada,QC,DSF,Natural gas with CCUS,2025,0
+Canada,QC,JANDG,Natural gas with CCUS,2025,0
+Canada,QC,DSF,Nuclear,2025,0
+Canada,QC,JANDG,Nuclear,2025,0
+Canada,QC,DSF,Other fossil fuels,2025,0
+Canada,QC,IET,Other fossil fuels,2025,126.788
+Canada,QC,JANDG,Other fossil fuels,2025,400
+Canada,QC,IET,Other renewables,2025,0.895609756
+Canada,QC,DSF,Solar,2025,33
+Canada,QC,IET,Solar,2025,9.5
+Canada,QC,JANDG,Solar,2025,0
+Canada,QC,DSF,Storage,2025,0
+Canada,QC,IET,Storage,2025,1666.158965
+Canada,QC,DSF,Wind,2025,3874
+Canada,QC,IET,Wind,2025,3884.516667
+Canada,QC,JANDG,Wind,2025,5500
+Canada,QCNL,EPRI,Biomass,2025,260.01485
+Canada,QCNL,EPRI,Biomass CCUS,2025,0
+Canada,QCNL,EPRI,Distributed solar,2025,0
+Canada,QCNL,EPRI,Energy efficiency,2025,0
+Canada,QCNL,EPRI,Hydro,2025,47830.001690000005
+Canada,QCNL,EPRI,Natural Gas,2025,565.3863989999999
+Canada,QCNL,EPRI,Natural gas with CCUS,2025,0.135556
+Canada,QCNL,EPRI,Nuclear,2025,0.0701
+Canada,QCNL,EPRI,Other fossil fuels,2025,1510.385779
+Canada,QCNL,EPRI,Other renewables,2025,0
+Canada,QCNL,EPRI,Solar,2025,0.098
+Canada,QCNL,EPRI,Storage,2025,0
+Canada,QCNL,EPRI,Wind,2025,16315.51445
+Canada,SK,DSF,Biomass,2025,20
+Canada,SK,EPRI,Biomass,2025,106.388057
+Canada,SK,IET,Biomass,2025,1.6
+Canada,SK,JANDG,Biomass,2025,0
+Canada,SK,EPRI,Biomass CCUS,2025,0
+Canada,SK,JANDG,Biomass with CCUS,2025,0
+Canada,SK,EPRI,Distributed solar,2025,0
+Canada,SK,IET,Distributed solar,2025,17.02
+Canada,SK,EPRI,Energy efficiency,2025,0
+Canada,SK,DSF,Hydro,2025,1178
+Canada,SK,EPRI,Hydro,2025,889.000739
+Canada,SK,IET,Hydro,2025,871
+Canada,SK,JANDG,Hydro,2025,900
+Canada,SK,DSF,Natural Gas,2025,1949
+Canada,SK,EPRI,Natural Gas,2025,2979.963569
+Canada,SK,IET,Natural Gas,2025,2057
+Canada,SK,JANDG,Natural Gas,2025,2500
+Canada,SK,DSF,Natural gas with CCUS,2025,0
+Canada,SK,EPRI,Natural gas with CCUS,2025,353.149462
+Canada,SK,JANDG,Natural gas with CCUS,2025,100
+Canada,SK,DSF,Nuclear,2025,0
+Canada,SK,EPRI,Nuclear,2025,0.134518
+Canada,SK,IET,Nuclear,2025,0
+Canada,SK,JANDG,Nuclear,2025,0
+Canada,SK,DSF,Other fossil fuels,2025,0
+Canada,SK,EPRI,Other fossil fuels,2025,0.716004
+Canada,SK,IET,Other fossil fuels,2025,1251.863714
+Canada,SK,JANDG,Other fossil fuels,2025,1300
+Canada,SK,EPRI,Other renewables,2025,0
+Canada,SK,IET,Other renewables,2025,0
+Canada,SK,DSF,Solar,2025,40
+Canada,SK,EPRI,Solar,2025,0.352492
+Canada,SK,IET,Solar,2025,0
+Canada,SK,JANDG,Solar,2025,800
+Canada,SK,DSF,Storage,2025,0
+Canada,SK,EPRI,Storage,2025,0
+Canada,SK,IET,Storage,2025,3.164840848
+Canada,SK,DSF,Wind,2025,1715
+Canada,SK,EPRI,Wind,2025,2220.997348
+Canada,SK,IET,Wind,2025,221.4
+Canada,SK,JANDG,Wind,2025,700
+Canada,Terr,JANDG,Biomass,2025,0
+Canada,Terr,JANDG,Biomass with CCUS,2025,0
+Canada,Terr,JANDG,Hydro,2025,200
+Canada,Terr,JANDG,Natural Gas,2025,0
+Canada,Terr,JANDG,Natural gas with CCUS,2025,0
+Canada,Terr,JANDG,Nuclear,2025,0
+Canada,Terr,JANDG,Other fossil fuels,2025,200
+Canada,Terr,JANDG,Solar,2025,0
+Canada,Terr,JANDG,Wind,2025,0
+Canada,YT,IET,Biomass,2025,0.102966967
+Canada,YT,IET,Distributed solar,2025,1.686666667
+Canada,YT,IET,Hydro,2025,94.40243902
+Canada,YT,IET,Natural Gas,2025,4.4
+Canada,YT,IET,Other fossil fuels,2025,29.24
+Canada,YT,IET,Solar,2025,0
+Canada,YT,IET,Storage,2025,0.27741609
+Canada,YT,IET,Wind,2025,0.81
+Canada,AB,DSF,Biomass,2030,423
+Canada,AB,EPRI,Biomass,2030,520.5033060000001
+Canada,AB,IET,Biomass,2030,398.98242865
+Canada,AB,JANDG,Biomass,2030,1400
+Canada,AB,EPRI,Biomass CCUS,2030,0
+Canada,AB,JANDG,Biomass with CCUS,2030,100
+Canada,AB,EPRI,Distributed solar,2030,0
+Canada,AB,IET,Distributed solar,2030,4414.00396
+Canada,AB,EPRI,Energy efficiency,2030,0
+Canada,AB,CER_HighDemand,Hydro,2030,894
+Canada,AB,DSF,Hydro,2030,924
+Canada,AB,EPRI,Hydro,2030,1204.0006919999998
+Canada,AB,IET,Hydro,2030,894
+Canada,AB,JANDG,Hydro,2030,1200
+Canada,AB,CER_HighDemand,Natural Gas,2030,13307
+Canada,AB,DSF,Natural Gas,2030,10110
+Canada,AB,EPRI,Natural Gas,2030,9725.008783
+Canada,AB,IET,Natural Gas,2030,8348.124286
+Canada,AB,JANDG,Natural Gas,2030,6000
+Canada,AB,CER_HighDemand,Natural gas with CCUS,2030,1498
+Canada,AB,DSF,Natural gas with CCUS,2030,0
+Canada,AB,EPRI,Natural gas with CCUS,2030,8032.006216999999
+Canada,AB,JANDG,Natural gas with CCUS,2030,1200
+Canada,AB,DSF,Nuclear,2030,0
+Canada,AB,EPRI,Nuclear,2030,0.443921
+Canada,AB,IET,Nuclear,2030,0
+Canada,AB,JANDG,Nuclear,2030,0
+Canada,AB,DSF,Other fossil fuels,2030,0
+Canada,AB,EPRI,Other fossil fuels,2030,289.47134600000004
+Canada,AB,IET,Other fossil fuels,2030,26.6
+Canada,AB,JANDG,Other fossil fuels,2030,0
+Canada,AB,EPRI,Other renewables,2030,0
+Canada,AB,IET,Other renewables,2030,1125
+Canada,AB,CER_HighDemand,Solar,2030,15
+Canada,AB,DSF,Solar,2030,1333
+Canada,AB,EPRI,Solar,2030,1566.8423699999998
+Canada,AB,IET,Solar,2030,1903.745949
+Canada,AB,JANDG,Solar,2030,7500
+Canada,AB,CER_HighDemand,Storage,2030,1231
+Canada,AB,DSF,Storage,2030,156
+Canada,AB,EPRI,Storage,2030,817.838299
+Canada,AB,IET,Storage,2030,2090.404845
+Canada,AB,CER_HighDemand,Wind,2030,9253
+Canada,AB,DSF,Wind,2030,28025
+Canada,AB,EPRI,Wind,2030,5794.976764
+Canada,AB,IET,Wind,2030,4660.257987
+Canada,AB,JANDG,Wind,2030,11400
+Canada,BC,DSF,Biomass,2030,304
+Canada,BC,EPRI,Biomass,2030,752.3480089999999
+Canada,BC,IET,Biomass,2030,2292.5364259000003
+Canada,BC,JANDG,Biomass,2030,1600
+Canada,BC,EPRI,Biomass CCUS,2030,0
+Canada,BC,JANDG,Biomass with CCUS,2030,0
+Canada,BC,EPRI,Distributed solar,2030,0
+Canada,BC,IET,Distributed solar,2030,8.01
+Canada,BC,EPRI,Energy efficiency,2030,0
+Canada,BC,CER_HighDemand,Hydro,2030,17340
+Canada,BC,DSF,Hydro,2030,17719
+Canada,BC,EPRI,Hydro,2030,16129.00201
+Canada,BC,IET,Hydro,2030,16468.8
+Canada,BC,JANDG,Hydro,2030,16500
+Canada,BC,DSF,Natural Gas,2030,526
+Canada,BC,EPRI,Natural Gas,2030,418.044122
+Canada,BC,IET,Natural Gas,2030,520.2857143
+Canada,BC,JANDG,Natural Gas,2030,0
+Canada,BC,DSF,Natural gas with CCUS,2030,0
+Canada,BC,EPRI,Natural gas with CCUS,2030,1158.702981
+Canada,BC,JANDG,Natural gas with CCUS,2030,0
+Canada,BC,DSF,Nuclear,2030,0
+Canada,BC,EPRI,Nuclear,2030,0.153459
+Canada,BC,IET,Nuclear,2030,0
+Canada,BC,JANDG,Nuclear,2030,0
+Canada,BC,DSF,Other fossil fuels,2030,0
+Canada,BC,EPRI,Other fossil fuels,2030,0.0864
+Canada,BC,IET,Other fossil fuels,2030,33.971999999999994
+Canada,BC,JANDG,Other fossil fuels,2030,0
+Canada,BC,EPRI,Other renewables,2030,0
+Canada,BC,IET,Other renewables,2030,3.253774838
+Canada,BC,CER_HighDemand,Solar,2030,15
+Canada,BC,DSF,Solar,2030,2000
+Canada,BC,EPRI,Solar,2030,0.626268
+Canada,BC,IET,Solar,2030,0
+Canada,BC,JANDG,Solar,2030,0
+Canada,BC,CER_HighDemand,Storage,2030,541.5
+Canada,BC,DSF,Storage,2030,0
+Canada,BC,EPRI,Storage,2030,0.131957
+Canada,BC,IET,Storage,2030,1.864418834
+Canada,BC,CER_HighDemand,Wind,2030,1780
+Canada,BC,DSF,Wind,2030,999
+Canada,BC,EPRI,Wind,2030,4104.143295999999
+Canada,BC,IET,Wind,2030,712.5
+Canada,BC,JANDG,Wind,2030,2400
+Canada,Maritimes,EPRI,Biomass,2030,746.893869
+Canada,Maritimes,JANDG,Biomass,2030,400
+Canada,Maritimes,EPRI,Biomass CCUS,2030,0
+Canada,Maritimes,JANDG,Biomass with CCUS,2030,0
+Canada,Maritimes,EPRI,Distributed solar,2030,0
+Canada,Maritimes,EPRI,Energy efficiency,2030,0
+Canada,Maritimes,EPRI,Hydro,2030,1349.000967
+Canada,Maritimes,JANDG,Hydro,2030,8100
+Canada,Maritimes,EPRI,Natural Gas,2030,986.157208
+Canada,Maritimes,JANDG,Natural Gas,2030,0
+Canada,Maritimes,EPRI,Natural gas with CCUS,2030,337.593373
+Canada,Maritimes,JANDG,Natural gas with CCUS,2030,0
+Canada,Maritimes,EPRI,Nuclear,2030,558.797926
+Canada,Maritimes,JANDG,Nuclear,2030,700
+Canada,Maritimes,EPRI,Other fossil fuels,2030,1670.1115210000005
+Canada,Maritimes,JANDG,Other fossil fuels,2030,0
+Canada,Maritimes,EPRI,Other renewables,2030,0
+Canada,Maritimes,EPRI,Solar,2030,0.310869
+Canada,Maritimes,JANDG,Solar,2030,0
+Canada,Maritimes,EPRI,Storage,2030,0.106975
+Canada,Maritimes,EPRI,Wind,2030,6953.430656
+Canada,Maritimes,JANDG,Wind,2030,4800
+Canada,MB,DSF,Biomass,2030,0
+Canada,MB,EPRI,Biomass,2030,0.111762
+Canada,MB,IET,Biomass,2030,31.702924139
+Canada,MB,JANDG,Biomass,2030,400
+Canada,MB,EPRI,Biomass CCUS,2030,0
+Canada,MB,JANDG,Biomass with CCUS,2030,0
+Canada,MB,EPRI,Distributed solar,2030,0
+Canada,MB,IET,Distributed solar,2030,8.52
+Canada,MB,EPRI,Energy efficiency,2030,0
+Canada,MB,CER_HighDemand,Hydro,2030,7859
+Canada,MB,DSF,Hydro,2030,5318
+Canada,MB,EPRI,Hydro,2030,7539.001002
+Canada,MB,IET,Hydro,2030,6044
+Canada,MB,JANDG,Hydro,2030,5500
+Canada,MB,CER_HighDemand,Natural Gas,2030,402
+Canada,MB,DSF,Natural Gas,2030,0
+Canada,MB,EPRI,Natural Gas,2030,0.873243
+Canada,MB,IET,Natural Gas,2030,510
+Canada,MB,JANDG,Natural Gas,2030,0
+Canada,MB,DSF,Natural gas with CCUS,2030,0
+Canada,MB,EPRI,Natural gas with CCUS,2030,0.0688999999999999
+Canada,MB,JANDG,Natural gas with CCUS,2030,0
+Canada,MB,DSF,Nuclear,2030,0
+Canada,MB,EPRI,Nuclear,2030,0.0595
+Canada,MB,JANDG,Nuclear,2030,0
+Canada,MB,DSF,Other fossil fuels,2030,0
+Canada,MB,EPRI,Other fossil fuels,2030,0.0293
+Canada,MB,IET,Other fossil fuels,2030,9.12
+Canada,MB,JANDG,Other fossil fuels,2030,0
+Canada,MB,EPRI,Other renewables,2030,0
+Canada,MB,CER_HighDemand,Solar,2030,28
+Canada,MB,DSF,Solar,2030,0
+Canada,MB,EPRI,Solar,2030,0.1528
+Canada,MB,IET,Solar,2030,0
+Canada,MB,JANDG,Solar,2030,0
+Canada,MB,CER_HighDemand,Storage,2030,512.4
+Canada,MB,DSF,Storage,2030,0
+Canada,MB,EPRI,Storage,2030,0.131074
+Canada,MB,IET,Storage,2030,1.732413314
+Canada,MB,CER_HighDemand,Wind,2030,302.1
+Canada,MB,DSF,Wind,2030,2809
+Canada,MB,EPRI,Wind,2030,198.481464
+Canada,MB,IET,Wind,2030,258.45
+Canada,MB,JANDG,Wind,2030,1200
+Canada,NB,DSF,Biomass,2030,119
+Canada,NB,IET,Biomass,2030,144.88607782
+Canada,NB,IET,Distributed solar,2030,459.0617399
+Canada,NB,CER_HighDemand,Hydro,2030,960
+Canada,NB,DSF,Hydro,2030,944
+Canada,NB,IET,Hydro,2030,956
+Canada,NB,CER_HighDemand,Natural Gas,2030,723.3
+Canada,NB,DSF,Natural Gas,2030,0
+Canada,NB,IET,Natural Gas,2030,348
+Canada,NB,DSF,Natural gas with CCUS,2030,0
+Canada,NB,CER_HighDemand,Nuclear,2030,705
+Canada,NB,DSF,Nuclear,2030,630
+Canada,NB,IET,Nuclear,2030,705
+Canada,NB,CER_HighDemand,Other fossil fuels,2030,1030
+Canada,NB,DSF,Other fossil fuels,2030,1100
+Canada,NB,IET,Other fossil fuels,2030,1503
+Canada,NB,DSF,Solar,2030,0
+Canada,NB,IET,Solar,2030,516.2011622
+Canada,NB,CER_HighDemand,Storage,2030,155.1
+Canada,NB,DSF,Storage,2030,0
+Canada,NB,IET,Storage,2030,432.5185429
+Canada,NB,CER_HighDemand,Wind,2030,1431
+Canada,NB,DSF,Wind,2030,266
+Canada,NB,IET,Wind,2030,1115.829586
+Canada,NL,DSF,Biomass,2030,0
+Canada,NL,IET,Biomass,2030,0.002552586
+Canada,NL,IET,Distributed solar,2030,0.018
+Canada,NL,CER_HighDemand,Hydro,2030,7500
+Canada,NL,DSF,Hydro,2030,2479
+Canada,NL,IET,Hydro,2030,176.32
+Canada,NL,CER_HighDemand,Natural Gas,2030,251
+Canada,NL,DSF,Natural Gas,2030,0
+Canada,NL,IET,Natural Gas,2030,15.3
+Canada,NL,DSF,Natural gas with CCUS,2030,0
+Canada,NL,DSF,Nuclear,2030,0
+Canada,NL,DSF,Other fossil fuels,2030,0
+Canada,NL,IET,Other fossil fuels,2030,108
+Canada,NL,IET,Other renewables,2030,9868
+Canada,NL,DSF,Solar,2030,0
+Canada,NL,CER_HighDemand,Storage,2030,0
+Canada,NL,DSF,Storage,2030,0
+Canada,NL,IET,Storage,2030,54.69
+Canada,NL,CER_HighDemand,Wind,2030,54
+Canada,NL,DSF,Wind,2030,27
+Canada,NL,IET,Wind,2030,9.646252978
+Canada,NS,DSF,Biomass,2030,97
+Canada,NS,IET,Biomass,2030,1581.663995
+Canada,NS,IET,Distributed solar,2030,198
+Canada,NS,CER_HighDemand,Hydro,2030,376
+Canada,NS,DSF,Hydro,2030,554
+Canada,NS,IET,Hydro,2030,627.73135
+Canada,NS,CER_HighDemand,Natural Gas,2030,482
+Canada,NS,DSF,Natural Gas,2030,143
+Canada,NS,IET,Natural Gas,2030,0
+Canada,NS,DSF,Natural gas with CCUS,2030,0
+Canada,NS,DSF,Nuclear,2030,0
+Canada,NS,IET,Nuclear,2030,330.839537
+Canada,NS,CER_HighDemand,Other fossil fuels,2030,1322
+Canada,NS,DSF,Other fossil fuels,2030,0
+Canada,NS,IET,Other fossil fuels,2030,229.8187784
+Canada,NS,IET,Other renewables,2030,360
+Canada,NS,CER_HighDemand,Solar,2030,26
+Canada,NS,DSF,Solar,2030,0
+Canada,NS,IET,Solar,2030,0.878003009
+Canada,NS,CER_HighDemand,Storage,2030,32.44
+Canada,NS,DSF,Storage,2030,107
+Canada,NS,IET,Storage,2030,20
+Canada,NS,CER_HighDemand,Wind,2030,2207
+Canada,NS,DSF,Wind,2030,2843
+Canada,NS,IET,Wind,2030,0.210185732
+Canada,NT,IET,Biomass,2030,0.6452358610000001
+Canada,NT,IET,Distributed solar,2030,56.2
+Canada,NT,IET,Hydro,2030,84.36
+Canada,NT,IET,Natural Gas,2030,0
+Canada,NT,IET,Other fossil fuels,2030,26.99345455
+Canada,NT,IET,Storage,2030,9.2
+Canada,NT,IET,Wind,2030,0.14402835
+Canada,NU,IET,Biomass,2030,1.256639025
+Canada,NU,IET,Distributed solar,2030,0
+Canada,NU,IET,Hydro,2030,41.04
+Canada,NU,IET,Other fossil fuels,2030,0
+Canada,NU,IET,Solar,2030,18.65090869
+Canada,NU,IET,Storage,2030,45.53748737
+Canada,NU,IET,Wind,2030,206.0397524
+Canada,ON,DSF,Biomass,2030,239
+Canada,ON,EPRI,Biomass,2030,92.57686
+Canada,ON,IET,Biomass,2030,842.6232444
+Canada,ON,JANDG,Biomass,2030,2700
+Canada,ON,EPRI,Biomass CCUS,2030,0
+Canada,ON,JANDG,Biomass with CCUS,2030,0
+Canada,ON,EPRI,Distributed solar,2030,0
+Canada,ON,IET,Distributed solar,2030,200
+Canada,ON,EPRI,Energy efficiency,2030,0
+Canada,ON,CER_HighDemand,Hydro,2030,9100
+Canada,ON,DSF,Hydro,2030,8177
+Canada,ON,EPRI,Hydro,2030,8990.001005
+Canada,ON,IET,Hydro,2030,9250.9
+Canada,ON,JANDG,Hydro,2030,9100
+Canada,ON,CER_HighDemand,Natural Gas,2030,12313
+Canada,ON,DSF,Natural Gas,2030,3221
+Canada,ON,EPRI,Natural Gas,2030,11194.8698482
+Canada,ON,IET,Natural Gas,2030,10708.9
+Canada,ON,JANDG,Natural Gas,2030,0
+Canada,ON,DSF,Natural gas with CCUS,2030,0
+Canada,ON,EPRI,Natural gas with CCUS,2030,5864.12006
+Canada,ON,JANDG,Natural gas with CCUS,2030,0
+Canada,ON,CER_HighDemand,Nuclear,2030,10000
+Canada,ON,DSF,Nuclear,2030,5181
+Canada,ON,EPRI,Nuclear,2030,10165.183910999998
+Canada,ON,IET,Nuclear,2030,8686
+Canada,ON,JANDG,Nuclear,2030,10200
+Canada,ON,DSF,Other fossil fuels,2030,0
+Canada,ON,EPRI,Other fossil fuels,2030,83.26288199999999
+Canada,ON,IET,Other fossil fuels,2030,11181.83471
+Canada,ON,JANDG,Other fossil fuels,2030,0
+Canada,ON,EPRI,Other renewables,2030,0
+Canada,ON,IET,Other renewables,2030,0
+Canada,ON,CER_HighDemand,Solar,2030,2815
+Canada,ON,DSF,Solar,2030,1603
+Canada,ON,EPRI,Solar,2030,380.870976
+Canada,ON,IET,Solar,2030,7480.026137
+Canada,ON,JANDG,Solar,2030,4200
+Canada,ON,CER_HighDemand,Storage,2030,2174
+Canada,ON,DSF,Storage,2030,203
+Canada,ON,EPRI,Storage,2030,174.101427
+Canada,ON,IET,Storage,2030,7261.777574
+Canada,ON,CER_HighDemand,Wind,2030,17000
+Canada,ON,DSF,Wind,2030,37873
+Canada,ON,EPRI,Wind,2030,5685.643695999999
+Canada,ON,IET,Wind,2030,11635.59621
+Canada,ON,JANDG,Wind,2030,14400
+Canada,PE,DSF,Biomass,2030,1
+Canada,PE,IET,Biomass,2030,2.491898846
+Canada,PE,IET,Distributed solar,2030,78.0976263
+Canada,PE,DSF,Hydro,2030,0
+Canada,PE,DSF,Natural Gas,2030,0
+Canada,PE,DSF,Natural gas with CCUS,2030,0
+Canada,PE,DSF,Nuclear,2030,0
+Canada,PE,DSF,Other fossil fuels,2030,0
+Canada,PE,IET,Other fossil fuels,2030,0
+Canada,PE,IET,Other renewables,2030,64.72677283
+Canada,PE,CER_HighDemand,Solar,2030,200
+Canada,PE,DSF,Solar,2030,31
+Canada,PE,IET,Solar,2030,0
+Canada,PE,CER_HighDemand,Storage,2030,333.9
+Canada,PE,DSF,Storage,2030,0
+Canada,PE,IET,Storage,2030,64.67175511
+Canada,PE,CER_HighDemand,Wind,2030,432.5
+Canada,PE,DSF,Wind,2030,1096
+Canada,PE,IET,Wind,2030,284.2266251
+Canada,QC,DSF,Biomass,2030,418
+Canada,QC,IET,Biomass,2030,470.8728905
+Canada,QC,JANDG,Biomass,2030,500
+Canada,QC,JANDG,Biomass with CCUS,2030,0
+Canada,QC,IET,Distributed solar,2030,3.86596666
+Canada,QC,CER_HighDemand,Hydro,2030,42000
+Canada,QC,DSF,Hydro,2030,45972
+Canada,QC,IET,Hydro,2030,40947.16
+Canada,QC,JANDG,Hydro,2030,40400
+Canada,QC,CER_HighDemand,Natural Gas,2030,6580
+Canada,QC,DSF,Natural Gas,2030,966
+Canada,QC,IET,Natural Gas,2030,1011
+Canada,QC,JANDG,Natural Gas,2030,0
+Canada,QC,DSF,Natural gas with CCUS,2030,0
+Canada,QC,JANDG,Natural gas with CCUS,2030,0
+Canada,QC,DSF,Nuclear,2030,0
+Canada,QC,JANDG,Nuclear,2030,0
+Canada,QC,DSF,Other fossil fuels,2030,0
+Canada,QC,IET,Other fossil fuels,2030,126.788
+Canada,QC,JANDG,Other fossil fuels,2030,0
+Canada,QC,IET,Other renewables,2030,0.895609756
+Canada,QC,CER_HighDemand,Solar,2030,4903
+Canada,QC,DSF,Solar,2030,10
+Canada,QC,IET,Solar,2030,9.5
+Canada,QC,JANDG,Solar,2030,0
+Canada,QC,CER_HighDemand,Storage,2030,4884
+Canada,QC,DSF,Storage,2030,0
+Canada,QC,IET,Storage,2030,1666.14819
+Canada,QC,CER_HighDemand,Wind,2030,4529
+Canada,QC,DSF,Wind,2030,5646
+Canada,QC,IET,Wind,2030,3884.1
+Canada,QC,JANDG,Wind,2030,8300
+Canada,QCNL,EPRI,Biomass,2030,260.026502
+Canada,QCNL,EPRI,Biomass CCUS,2030,0
+Canada,QCNL,EPRI,Distributed solar,2030,0
+Canada,QCNL,EPRI,Energy efficiency,2030,0
+Canada,QCNL,EPRI,Hydro,2030,47830.00257
+Canada,QCNL,EPRI,Natural Gas,2030,565.526359
+Canada,QCNL,EPRI,Natural gas with CCUS,2030,1.23232
+Canada,QCNL,EPRI,Nuclear,2030,0.1474849999999999
+Canada,QCNL,EPRI,Other fossil fuels,2030,1510.384698
+Canada,QCNL,EPRI,Other renewables,2030,0
+Canada,QCNL,EPRI,Solar,2030,0.2118999999999999
+Canada,QCNL,EPRI,Storage,2030,0.1308899999999999
+Canada,QCNL,EPRI,Wind,2030,16316.46338
+Canada,SK,DSF,Biomass,2030,20
+Canada,SK,EPRI,Biomass,2030,106.609457
+Canada,SK,IET,Biomass,2030,1.6
+Canada,SK,JANDG,Biomass,2030,300
+Canada,SK,EPRI,Biomass CCUS,2030,0
+Canada,SK,JANDG,Biomass with CCUS,2030,0
+Canada,SK,EPRI,Distributed solar,2030,0
+Canada,SK,IET,Distributed solar,2030,1092.547509
+Canada,SK,EPRI,Energy efficiency,2030,0
+Canada,SK,CER_HighDemand,Hydro,2030,890
+Canada,SK,DSF,Hydro,2030,1178
+Canada,SK,EPRI,Hydro,2030,889.001054
+Canada,SK,IET,Hydro,2030,871
+Canada,SK,JANDG,Hydro,2030,900
+Canada,SK,CER_HighDemand,Natural Gas,2030,2377
+Canada,SK,DSF,Natural Gas,2030,0
+Canada,SK,EPRI,Natural Gas,2030,2686.902626
+Canada,SK,IET,Natural Gas,2030,2057
+Canada,SK,JANDG,Natural Gas,2030,1300
+Canada,SK,CER_HighDemand,Natural gas with CCUS,2030,283.9
+Canada,SK,DSF,Natural gas with CCUS,2030,0
+Canada,SK,EPRI,Natural gas with CCUS,2030,1133.13796
+Canada,SK,JANDG,Natural gas with CCUS,2030,400
+Canada,SK,DSF,Nuclear,2030,0
+Canada,SK,EPRI,Nuclear,2030,0.344803
+Canada,SK,IET,Nuclear,2030,0
+Canada,SK,JANDG,Nuclear,2030,0
+Canada,SK,DSF,Other fossil fuels,2030,0
+Canada,SK,EPRI,Other fossil fuels,2030,0.424
+Canada,SK,IET,Other fossil fuels,2030,674.6214415999999
+Canada,SK,JANDG,Other fossil fuels,2030,0
+Canada,SK,EPRI,Other renewables,2030,0
+Canada,SK,IET,Other renewables,2030,0
+Canada,SK,CER_HighDemand,Solar,2030,1932
+Canada,SK,DSF,Solar,2030,40
+Canada,SK,EPRI,Solar,2030,0.930292
+Canada,SK,IET,Solar,2030,348.3449231
+Canada,SK,JANDG,Solar,2030,3000
+Canada,SK,CER_HighDemand,Storage,2030,792.9
+Canada,SK,DSF,Storage,2030,5
+Canada,SK,EPRI,Storage,2030,527.447079
+Canada,SK,IET,Storage,2030,443.2406149
+Canada,SK,CER_HighDemand,Wind,2030,3520
+Canada,SK,DSF,Wind,2030,9818
+Canada,SK,EPRI,Wind,2030,3427.086846
+Canada,SK,IET,Wind,2030,763.2698803
+Canada,SK,JANDG,Wind,2030,1800
+Canada,Terr,JANDG,Biomass,2030,0
+Canada,Terr,JANDG,Biomass with CCUS,2030,0
+Canada,Terr,JANDG,Hydro,2030,200
+Canada,Terr,JANDG,Natural Gas,2030,0
+Canada,Terr,JANDG,Natural gas with CCUS,2030,0
+Canada,Terr,JANDG,Nuclear,2030,0
+Canada,Terr,JANDG,Other fossil fuels,2030,100
+Canada,Terr,JANDG,Solar,2030,0
+Canada,Terr,JANDG,Wind,2030,100
+Canada,YT,IET,Biomass,2030,0.117740853
+Canada,YT,IET,Distributed solar,2030,1.32
+Canada,YT,IET,Hydro,2030,93.97560976
+Canada,YT,IET,Natural Gas,2030,4.4
+Canada,YT,IET,Other fossil fuels,2030,25.84
+Canada,YT,IET,Solar,2030,0
+Canada,YT,IET,Storage,2030,0.27089109
+Canada,YT,IET,Wind,2030,0.81
+Canada,AB,DSF,Biomass,2035,423
+Canada,AB,EPRI,Biomass,2035,721.228287
+Canada,AB,IET,Biomass,2035,798.87952468
+Canada,AB,JANDG,Biomass,2035,2800
+Canada,AB,EPRI,Biomass CCUS,2035,0
+Canada,AB,JANDG,Biomass with CCUS,2035,400
+Canada,AB,EPRI,Distributed solar,2035,0
+Canada,AB,IET,Distributed solar,2035,4408.04396
+Canada,AB,EPRI,Energy efficiency,2035,0
+Canada,AB,DSF,Hydro,2035,0
+Canada,AB,EPRI,Hydro,2035,1204.001981
+Canada,AB,IET,Hydro,2035,894
+Canada,AB,JANDG,Hydro,2035,1200
+Canada,AB,DSF,Natural Gas,2035,0
+Canada,AB,EPRI,Natural Gas,2035,9725.154061
+Canada,AB,IET,Natural Gas,2035,8310.505238
+Canada,AB,JANDG,Natural Gas,2035,0
+Canada,AB,DSF,Natural gas with CCUS,2035,0
+Canada,AB,EPRI,Natural gas with CCUS,2035,9536.114777
+Canada,AB,JANDG,Natural gas with CCUS,2035,2300
+Canada,AB,DSF,Nuclear,2035,0
+Canada,AB,EPRI,Nuclear,2035,129.074185
+Canada,AB,IET,Nuclear,2035,0
+Canada,AB,JANDG,Nuclear,2035,0
+Canada,AB,DSF,Other fossil fuels,2035,0
+Canada,AB,EPRI,Other fossil fuels,2035,0.471
+Canada,AB,IET,Other fossil fuels,2035,23.1
+Canada,AB,JANDG,Other fossil fuels,2035,0
+Canada,AB,EPRI,Other renewables,2035,0
+Canada,AB,IET,Other renewables,2035,1500
+Canada,AB,DSF,Solar,2035,2000
+Canada,AB,EPRI,Solar,2035,3689.354321
+Canada,AB,IET,Solar,2035,4239.366446
+Canada,AB,JANDG,Solar,2035,12900
+Canada,AB,DSF,Storage,2035,3163
+Canada,AB,EPRI,Storage,2035,5340.107671
+Canada,AB,IET,Storage,2035,3647.521603
+Canada,AB,DSF,Wind,2035,48576
+Canada,AB,EPRI,Wind,2035,7902.82123
+Canada,AB,IET,Wind,2035,8293.445427
+Canada,AB,JANDG,Wind,2035,18400
+Canada,BC,DSF,Biomass,2035,304
+Canada,BC,EPRI,Biomass,2035,752.3688960000001
+Canada,BC,IET,Biomass,2035,2908.6342249000004
+Canada,BC,JANDG,Biomass,2035,2000
+Canada,BC,EPRI,Biomass CCUS,2035,0
+Canada,BC,JANDG,Biomass with CCUS,2035,0
+Canada,BC,EPRI,Distributed solar,2035,0
+Canada,BC,IET,Distributed solar,2035,3753.073893
+Canada,BC,EPRI,Energy efficiency,2035,0
+Canada,BC,DSF,Hydro,2035,17665
+Canada,BC,EPRI,Hydro,2035,17659.00236
+Canada,BC,IET,Hydro,2035,16468.8
+Canada,BC,JANDG,Hydro,2035,16500
+Canada,BC,DSF,Natural Gas,2035,0
+Canada,BC,EPRI,Natural Gas,2035,342.688654
+Canada,BC,IET,Natural Gas,2035,516.2380952
+Canada,BC,JANDG,Natural Gas,2035,0
+Canada,BC,DSF,Natural gas with CCUS,2035,0
+Canada,BC,EPRI,Natural gas with CCUS,2035,1159.399123
+Canada,BC,JANDG,Natural gas with CCUS,2035,0
+Canada,BC,DSF,Nuclear,2035,0
+Canada,BC,EPRI,Nuclear,2035,0.276111
+Canada,BC,IET,Nuclear,2035,0
+Canada,BC,JANDG,Nuclear,2035,0
+Canada,BC,DSF,Other fossil fuels,2035,0
+Canada,BC,EPRI,Other fossil fuels,2035,0.0865
+Canada,BC,IET,Other fossil fuels,2035,29.502
+Canada,BC,JANDG,Other fossil fuels,2035,0
+Canada,BC,EPRI,Other renewables,2035,0
+Canada,BC,IET,Other renewables,2035,4.338366451
+Canada,BC,DSF,Solar,2035,2000
+Canada,BC,EPRI,Solar,2035,216.667086
+Canada,BC,IET,Solar,2035,0
+Canada,BC,JANDG,Solar,2035,300
+Canada,BC,DSF,Storage,2035,0
+Canada,BC,EPRI,Storage,2035,550.859493
+Canada,BC,IET,Storage,2035,670.1054925
+Canada,BC,DSF,Wind,2035,8429
+Canada,BC,EPRI,Wind,2035,4007.663275
+Canada,BC,IET,Wind,2035,712.5
+Canada,BC,JANDG,Wind,2035,4400
+Canada,Maritimes,EPRI,Biomass,2035,747.7342070000001
+Canada,Maritimes,JANDG,Biomass,2035,400
+Canada,Maritimes,EPRI,Biomass CCUS,2035,0
+Canada,Maritimes,JANDG,Biomass with CCUS,2035,0
+Canada,Maritimes,EPRI,Distributed solar,2035,0
+Canada,Maritimes,EPRI,Energy efficiency,2035,0
+Canada,Maritimes,EPRI,Hydro,2035,1479.000848
+Canada,Maritimes,JANDG,Hydro,2035,8100
+Canada,Maritimes,EPRI,Natural Gas,2035,986.364761
+Canada,Maritimes,JANDG,Natural Gas,2035,0
+Canada,Maritimes,EPRI,Natural gas with CCUS,2035,818.702062
+Canada,Maritimes,JANDG,Natural gas with CCUS,2035,0
+Canada,Maritimes,EPRI,Nuclear,2035,559.9695429999999
+Canada,Maritimes,JANDG,Nuclear,2035,700
+Canada,Maritimes,EPRI,Other fossil fuels,2035,390.357587
+Canada,Maritimes,JANDG,Other fossil fuels,2035,0
+Canada,Maritimes,EPRI,Other renewables,2035,0
+Canada,Maritimes,EPRI,Solar,2035,0.5254220000000001
+Canada,Maritimes,JANDG,Solar,2035,0
+Canada,Maritimes,EPRI,Storage,2035,729.348404
+Canada,Maritimes,EPRI,Wind,2035,6248.924126000001
+Canada,Maritimes,JANDG,Wind,2035,4900
+Canada,MB,DSF,Biomass,2035,0
+Canada,MB,EPRI,Biomass,2035,0.139458
+Canada,MB,IET,Biomass,2035,96.04371795
+Canada,MB,JANDG,Biomass,2035,800
+Canada,MB,EPRI,Biomass CCUS,2035,0
+Canada,MB,JANDG,Biomass with CCUS,2035,0
+Canada,MB,EPRI,Distributed solar,2035,0
+Canada,MB,IET,Distributed solar,2035,925.9204116
+Canada,MB,EPRI,Energy efficiency,2035,0
+Canada,MB,DSF,Hydro,2035,5568
+Canada,MB,EPRI,Hydro,2035,7539.002037
+Canada,MB,IET,Hydro,2035,6301.836211
+Canada,MB,JANDG,Hydro,2035,5500
+Canada,MB,DSF,Natural Gas,2035,0
+Canada,MB,EPRI,Natural Gas,2035,0.924348
+Canada,MB,IET,Natural Gas,2035,510
+Canada,MB,JANDG,Natural Gas,2035,0
+Canada,MB,DSF,Natural gas with CCUS,2035,0
+Canada,MB,EPRI,Natural gas with CCUS,2035,0.116813
+Canada,MB,JANDG,Natural gas with CCUS,2035,0
+Canada,MB,DSF,Nuclear,2035,0
+Canada,MB,EPRI,Nuclear,2035,0.0965
+Canada,MB,JANDG,Nuclear,2035,0
+Canada,MB,DSF,Other fossil fuels,2035,0
+Canada,MB,EPRI,Other fossil fuels,2035,0.0147
+Canada,MB,IET,Other fossil fuels,2035,7.92
+Canada,MB,JANDG,Other fossil fuels,2035,0
+Canada,MB,EPRI,Other renewables,2035,0
+Canada,MB,DSF,Solar,2035,300
+Canada,MB,EPRI,Solar,2035,0.2705999999999999
+Canada,MB,IET,Solar,2035,0
+Canada,MB,JANDG,Solar,2035,0
+Canada,MB,DSF,Storage,2035,0
+Canada,MB,EPRI,Storage,2035,0.279778
+Canada,MB,IET,Storage,2035,193.2942096
+Canada,MB,DSF,Wind,2035,2809
+Canada,MB,EPRI,Wind,2035,6.717728
+Canada,MB,IET,Wind,2035,258.45
+Canada,MB,JANDG,Wind,2035,2000
+Canada,NB,DSF,Biomass,2035,119
+Canada,NB,IET,Biomass,2035,516.7416142000001
+Canada,NB,IET,Distributed solar,2035,458.9417399
+Canada,NB,DSF,Hydro,2035,944
+Canada,NB,IET,Hydro,2035,956
+Canada,NB,DSF,Natural Gas,2035,0
+Canada,NB,IET,Natural Gas,2035,348
+Canada,NB,DSF,Natural gas with CCUS,2035,0
+Canada,NB,DSF,Nuclear,2035,630
+Canada,NB,IET,Nuclear,2035,705
+Canada,NB,DSF,Other fossil fuels,2035,0
+Canada,NB,IET,Other fossil fuels,2035,1503
+Canada,NB,DSF,Solar,2035,0
+Canada,NB,IET,Solar,2035,1032.402324
+Canada,NB,DSF,Storage,2035,173
+Canada,NB,IET,Storage,2035,776.6239976
+Canada,NB,DSF,Wind,2035,266
+Canada,NB,IET,Wind,2035,1918.809171
+Canada,NL,DSF,Biomass,2035,0
+Canada,NL,IET,Biomass,2035,1.545754889
+Canada,NL,IET,Distributed solar,2035,0.013
+Canada,NL,DSF,Hydro,2035,2479
+Canada,NL,IET,Hydro,2035,153.12
+Canada,NL,DSF,Natural Gas,2035,0
+Canada,NL,IET,Natural Gas,2035,15.3
+Canada,NL,DSF,Natural gas with CCUS,2035,0
+Canada,NL,DSF,Nuclear,2035,0
+Canada,NL,DSF,Other fossil fuels,2035,0
+Canada,NL,IET,Other fossil fuels,2035,108
+Canada,NL,IET,Other renewables,2035,9868
+Canada,NL,DSF,Solar,2035,0
+Canada,NL,DSF,Storage,2035,160
+Canada,NL,IET,Storage,2035,54.69
+Canada,NL,DSF,Wind,2035,72
+Canada,NL,IET,Wind,2035,9.646252978
+Canada,NS,DSF,Biomass,2035,97
+Canada,NS,IET,Biomass,2035,1676.46476671
+Canada,NS,IET,Distributed solar,2035,198
+Canada,NS,DSF,Hydro,2035,554
+Canada,NS,IET,Hydro,2035,686.5985944
+Canada,NS,DSF,Natural Gas,2035,0
+Canada,NS,IET,Natural Gas,2035,0
+Canada,NS,DSF,Natural gas with CCUS,2035,0
+Canada,NS,DSF,Nuclear,2035,0
+Canada,NS,IET,Nuclear,2035,376.6455122
+Canada,NS,DSF,Other fossil fuels,2035,0
+Canada,NS,IET,Other fossil fuels,2035,913.9553272
+Canada,NS,IET,Other renewables,2035,360
+Canada,NS,DSF,Solar,2035,0
+Canada,NS,IET,Solar,2035,153.4532958
+Canada,NS,DSF,Storage,2035,107
+Canada,NS,IET,Storage,2035,20
+Canada,NS,DSF,Wind,2035,4502
+Canada,NS,IET,Wind,2035,0.228053355
+Canada,NT,IET,Biomass,2035,196.87142826
+Canada,NT,IET,Distributed solar,2035,107.8558878
+Canada,NT,IET,Hydro,2035,73.26
+Canada,NT,IET,Natural Gas,2035,11.16417378
+Canada,NT,IET,Other fossil fuels,2035,26.99072727
+Canada,NT,IET,Storage,2035,9.2
+Canada,NT,IET,Wind,2035,0.162782697
+Canada,NU,IET,Biomass,2035,16.0573993
+Canada,NU,IET,Distributed solar,2035,0
+Canada,NU,IET,Hydro,2035,35.64
+Canada,NU,IET,Other fossil fuels,2035,0
+Canada,NU,IET,Solar,2035,30.67103854
+Canada,NU,IET,Storage,2035,66.91250195
+Canada,NU,IET,Wind,2035,206.552573
+Canada,ON,DSF,Biomass,2035,188
+Canada,ON,EPRI,Biomass,2035,92.605367
+Canada,ON,IET,Biomass,2035,842.6232444
+Canada,ON,JANDG,Biomass,2035,3700
+Canada,ON,EPRI,Biomass CCUS,2035,0
+Canada,ON,JANDG,Biomass with CCUS,2035,0
+Canada,ON,EPRI,Distributed solar,2035,0
+Canada,ON,IET,Distributed solar,2035,200
+Canada,ON,EPRI,Energy efficiency,2035,0
+Canada,ON,DSF,Hydro,2035,8132
+Canada,ON,EPRI,Hydro,2035,9240.000905
+Canada,ON,IET,Hydro,2035,9250.9
+Canada,ON,JANDG,Hydro,2035,9100
+Canada,ON,DSF,Natural Gas,2035,0
+Canada,ON,EPRI,Natural Gas,2035,11195.088516
+Canada,ON,IET,Natural Gas,2035,10708.9
+Canada,ON,JANDG,Natural Gas,2035,0
+Canada,ON,DSF,Natural gas with CCUS,2035,0
+Canada,ON,EPRI,Natural gas with CCUS,2035,8227.198429
+Canada,ON,JANDG,Natural gas with CCUS,2035,0
+Canada,ON,DSF,Nuclear,2035,4300
+Canada,ON,EPRI,Nuclear,2035,10165.903292
+Canada,ON,IET,Nuclear,2035,9916
+Canada,ON,JANDG,Nuclear,2035,10200
+Canada,ON,DSF,Other fossil fuels,2035,0
+Canada,ON,EPRI,Other fossil fuels,2035,83.3
+Canada,ON,IET,Other fossil fuels,2035,11048.95094
+Canada,ON,JANDG,Other fossil fuels,2035,0
+Canada,ON,EPRI,Other renewables,2035,0
+Canada,ON,IET,Other renewables,2035,0
+Canada,ON,DSF,Solar,2035,2000
+Canada,ON,EPRI,Solar,2035,381.806688
+Canada,ON,IET,Solar,2035,11556.19442
+Canada,ON,JANDG,Solar,2035,4400
+Canada,ON,DSF,Storage,2035,4645
+Canada,ON,EPRI,Storage,2035,2057.971486
+Canada,ON,IET,Storage,2035,9951.116293
+Canada,ON,DSF,Wind,2035,52140
+Canada,ON,EPRI,Wind,2035,6457.239527
+Canada,ON,IET,Wind,2035,17976.30243
+Canada,ON,JANDG,Wind,2035,20000
+Canada,PE,DSF,Biomass,2035,1
+Canada,PE,IET,Biomass,2035,2.558935353
+Canada,PE,IET,Distributed solar,2035,77.76429297
+Canada,PE,DSF,Hydro,2035,0
+Canada,PE,DSF,Natural Gas,2035,0
+Canada,PE,DSF,Natural gas with CCUS,2035,0
+Canada,PE,DSF,Nuclear,2035,0
+Canada,PE,DSF,Other fossil fuels,2035,0
+Canada,PE,IET,Other fossil fuels,2035,0
+Canada,PE,IET,Other renewables,2035,64.72677283
+Canada,PE,DSF,Solar,2035,31
+Canada,PE,IET,Solar,2035,0
+Canada,PE,DSF,Storage,2035,11
+Canada,PE,IET,Storage,2035,113.3380892
+Canada,PE,DSF,Wind,2035,1134
+Canada,PE,IET,Wind,2035,420.8973601
+Canada,QC,DSF,Biomass,2035,418
+Canada,QC,IET,Biomass,2035,1149.3523815
+Canada,QC,JANDG,Biomass,2035,800
+Canada,QC,JANDG,Biomass with CCUS,2035,0
+Canada,QC,IET,Distributed solar,2035,5197.825655
+Canada,QC,DSF,Hydro,2035,45967
+Canada,QC,IET,Hydro,2035,41827.16
+Canada,QC,JANDG,Hydro,2035,40400
+Canada,QC,DSF,Natural Gas,2035,0
+Canada,QC,IET,Natural Gas,2035,1011
+Canada,QC,JANDG,Natural Gas,2035,0
+Canada,QC,DSF,Natural gas with CCUS,2035,0
+Canada,QC,JANDG,Natural gas with CCUS,2035,0
+Canada,QC,DSF,Nuclear,2035,0
+Canada,QC,JANDG,Nuclear,2035,0
+Canada,QC,DSF,Other fossil fuels,2035,0
+Canada,QC,IET,Other fossil fuels,2035,126.788
+Canada,QC,JANDG,Other fossil fuels,2035,0
+Canada,QC,IET,Other renewables,2035,0.391430701
+Canada,QC,DSF,Solar,2035,0
+Canada,QC,IET,Solar,2035,981.1255264
+Canada,QC,JANDG,Solar,2035,0
+Canada,QC,DSF,Storage,2035,0
+Canada,QC,IET,Storage,2035,2717.239431
+Canada,QC,DSF,Wind,2035,5999
+Canada,QC,IET,Wind,2035,3883.683333
+Canada,QC,JANDG,Wind,2035,10500
+Canada,QCNL,EPRI,Biomass,2035,260.043807
+Canada,QCNL,EPRI,Biomass CCUS,2035,0
+Canada,QCNL,EPRI,Distributed solar,2035,0
+Canada,QCNL,EPRI,Energy efficiency,2035,0
+Canada,QCNL,EPRI,Hydro,2035,50100.00291
+Canada,QCNL,EPRI,Natural Gas,2035,565.6672420000001
+Canada,QCNL,EPRI,Natural gas with CCUS,2035,293.073199
+Canada,QCNL,EPRI,Nuclear,2035,0.245684
+Canada,QCNL,EPRI,Other fossil fuels,2035,1210.385579
+Canada,QCNL,EPRI,Other renewables,2035,0
+Canada,QCNL,EPRI,Solar,2035,0.403686
+Canada,QCNL,EPRI,Storage,2035,148.069327
+Canada,QCNL,EPRI,Wind,2035,16317.313569999998
+Canada,SK,DSF,Biomass,2035,20
+Canada,SK,EPRI,Biomass,2035,106.768732
+Canada,SK,IET,Biomass,2035,130.0586779
+Canada,SK,JANDG,Biomass,2035,700
+Canada,SK,EPRI,Biomass CCUS,2035,0
+Canada,SK,JANDG,Biomass with CCUS,2035,100
+Canada,SK,EPRI,Distributed solar,2035,0
+Canada,SK,IET,Distributed solar,2035,1089.587509
+Canada,SK,EPRI,Energy efficiency,2035,0
+Canada,SK,DSF,Hydro,2035,1178
+Canada,SK,EPRI,Hydro,2035,1009.000868
+Canada,SK,IET,Hydro,2035,871
+Canada,SK,JANDG,Hydro,2035,900
+Canada,SK,DSF,Natural Gas,2035,0
+Canada,SK,EPRI,Natural Gas,2035,2687.014743
+Canada,SK,IET,Natural Gas,2035,1939
+Canada,SK,JANDG,Natural Gas,2035,0
+Canada,SK,DSF,Natural gas with CCUS,2035,0
+Canada,SK,EPRI,Natural gas with CCUS,2035,1737.330475
+Canada,SK,JANDG,Natural gas with CCUS,2035,500
+Canada,SK,DSF,Nuclear,2035,0
+Canada,SK,EPRI,Nuclear,2035,0.775551
+Canada,SK,IET,Nuclear,2035,0
+Canada,SK,JANDG,Nuclear,2035,0
+Canada,SK,DSF,Other fossil fuels,2035,0
+Canada,SK,EPRI,Other fossil fuels,2035,0.232
+Canada,SK,IET,Other fossil fuels,2035,923.6648832
+Canada,SK,JANDG,Other fossil fuels,2035,0
+Canada,SK,EPRI,Other renewables,2035,0
+Canada,SK,IET,Other renewables,2035,0
+Canada,SK,DSF,Solar,2035,2000
+Canada,SK,EPRI,Solar,2035,400.071091
+Canada,SK,IET,Solar,2035,2564.388796
+Canada,SK,JANDG,Solar,2035,4200
+Canada,SK,DSF,Storage,2035,233
+Canada,SK,EPRI,Storage,2035,1086.820239
+Canada,SK,IET,Storage,2035,1920.334113
+Canada,SK,DSF,Wind,2035,11189
+Canada,SK,EPRI,Wind,2035,3800.390694
+Canada,SK,IET,Wind,2035,4210.449238
+Canada,SK,JANDG,Wind,2035,2500
+Canada,Terr,JANDG,Biomass,2035,0
+Canada,Terr,JANDG,Biomass with CCUS,2035,0
+Canada,Terr,JANDG,Hydro,2035,200
+Canada,Terr,JANDG,Natural Gas,2035,0
+Canada,Terr,JANDG,Natural gas with CCUS,2035,0
+Canada,Terr,JANDG,Nuclear,2035,0
+Canada,Terr,JANDG,Other fossil fuels,2035,0
+Canada,Terr,JANDG,Solar,2035,0
+Canada,Terr,JANDG,Wind,2035,200
+Canada,YT,IET,Biomass,2035,0.130295034
+Canada,YT,IET,Distributed solar,2035,23.73891186
+Canada,YT,IET,Hydro,2035,93.54878049
+Canada,YT,IET,Natural Gas,2035,4.4
+Canada,YT,IET,Other fossil fuels,2035,22.44
+Canada,YT,IET,Solar,2035,0
+Canada,YT,IET,Storage,2035,4.063045382
+Canada,YT,IET,Wind,2035,0.81
+Canada,AB,DSF,Biomass,2040,0
+Canada,AB,EPRI,Biomass,2040,647.4271150000001
+Canada,AB,IET,Biomass,2040,961.58597745
+Canada,AB,EPRI,Biomass CCUS,2040,0
+Canada,AB,EPRI,Distributed solar,2040,0
+Canada,AB,IET,Distributed solar,2040,4402.08396
+Canada,AB,EPRI,Energy efficiency,2040,0
+Canada,AB,CER_HighDemand,Hydro,2040,894
+Canada,AB,DSF,Hydro,2040,0
+Canada,AB,EPRI,Hydro,2040,1204.002188
+Canada,AB,IET,Hydro,2040,894
+Canada,AB,CER_HighDemand,Natural Gas,2040,10625
+Canada,AB,DSF,Natural Gas,2040,0
+Canada,AB,EPRI,Natural Gas,2040,8048.280091
+Canada,AB,IET,Natural Gas,2040,7496.88619
+Canada,AB,CER_HighDemand,Natural gas with CCUS,2040,5014
+Canada,AB,DSF,Natural gas with CCUS,2040,0
+Canada,AB,EPRI,Natural gas with CCUS,2040,9536.487257
+Canada,AB,DSF,Nuclear,2040,0
+Canada,AB,EPRI,Nuclear,2040,6922.372774
+Canada,AB,IET,Nuclear,2040,0
+Canada,AB,DSF,Other fossil fuels,2040,0
+Canada,AB,EPRI,Other fossil fuels,2040,0.23
+Canada,AB,IET,Other fossil fuels,2040,19.6
+Canada,AB,EPRI,Other renewables,2040,0
+Canada,AB,IET,Other renewables,2040,1500
+Canada,AB,CER_HighDemand,Solar,2040,4860
+Canada,AB,DSF,Solar,2040,2539
+Canada,AB,EPRI,Solar,2040,3690.579228
+Canada,AB,IET,Solar,2040,15110.40057
+Canada,AB,CER_HighDemand,Storage,2040,5012
+Canada,AB,DSF,Storage,2040,5809
+Canada,AB,EPRI,Storage,2040,9862.377044
+Canada,AB,IET,Storage,2040,10891.6883
+Canada,AB,CER_HighDemand,Wind,2040,13170
+Canada,AB,DSF,Wind,2040,63058
+Canada,AB,EPRI,Wind,2040,8997.702013
+Canada,AB,IET,Wind,2040,25156.16296
+Canada,BC,DSF,Biomass,2040,0
+Canada,BC,EPRI,Biomass,2040,44.961218
+Canada,BC,IET,Biomass,2040,3073.971664
+Canada,BC,EPRI,Biomass CCUS,2040,0
+Canada,BC,EPRI,Distributed solar,2040,0
+Canada,BC,IET,Distributed solar,2040,3751.293893
+Canada,BC,EPRI,Energy efficiency,2040,0
+Canada,BC,CER_HighDemand,Hydro,2040,19900
+Canada,BC,DSF,Hydro,2040,17765
+Canada,BC,EPRI,Hydro,2040,17659.00408
+Canada,BC,IET,Hydro,2040,16468.8
+Canada,BC,CER_HighDemand,Natural Gas,2040,169.8
+Canada,BC,DSF,Natural Gas,2040,0
+Canada,BC,EPRI,Natural Gas,2040,231.93954900000003
+Canada,BC,IET,Natural Gas,2040,512.1904762
+Canada,BC,DSF,Natural gas with CCUS,2040,0
+Canada,BC,EPRI,Natural gas with CCUS,2040,1426.996674
+Canada,BC,DSF,Nuclear,2040,0
+Canada,BC,EPRI,Nuclear,2040,0.541763
+Canada,BC,IET,Nuclear,2040,0
+Canada,BC,DSF,Other fossil fuels,2040,0
+Canada,BC,EPRI,Other fossil fuels,2040,0.0865
+Canada,BC,IET,Other fossil fuels,2040,25.032
+Canada,BC,EPRI,Other renewables,2040,0
+Canada,BC,IET,Other renewables,2040,2212.584237
+Canada,BC,CER_HighDemand,Solar,2040,941.8
+Canada,BC,DSF,Solar,2040,3000
+Canada,BC,EPRI,Solar,2040,674.7850139999999
+Canada,BC,IET,Solar,2040,0
+Canada,BC,CER_HighDemand,Storage,2040,1333
+Canada,BC,DSF,Storage,2040,134
+Canada,BC,EPRI,Storage,2040,1101.587029
+Canada,BC,IET,Storage,2040,669.4301681
+Canada,BC,CER_HighDemand,Wind,2040,4027
+Canada,BC,DSF,Wind,2040,16292
+Canada,BC,EPRI,Wind,2040,7434.216269
+Canada,BC,IET,Wind,2040,712.5
+Canada,Maritimes,EPRI,Biomass,2040,747.93174
+Canada,Maritimes,EPRI,Biomass CCUS,2040,0
+Canada,Maritimes,EPRI,Distributed solar,2040,0
+Canada,Maritimes,EPRI,Energy efficiency,2040,0
+Canada,Maritimes,EPRI,Hydro,2040,1479.001919
+Canada,Maritimes,EPRI,Natural Gas,2040,986.499357
+Canada,Maritimes,EPRI,Natural gas with CCUS,2040,1343.632209
+Canada,Maritimes,EPRI,Nuclear,2040,561.329648
+Canada,Maritimes,EPRI,Other fossil fuels,2040,389.846737
+Canada,Maritimes,EPRI,Other renewables,2040,0
+Canada,Maritimes,EPRI,Solar,2040,0.825833
+Canada,Maritimes,EPRI,Storage,2040,1458.589833
+Canada,Maritimes,EPRI,Wind,2040,6249.772982
+Canada,MB,DSF,Biomass,2040,0
+Canada,MB,EPRI,Biomass,2040,0.0673
+Canada,MB,IET,Biomass,2040,108.53607976
+Canada,MB,EPRI,Biomass CCUS,2040,0
+Canada,MB,EPRI,Distributed solar,2040,0
+Canada,MB,IET,Distributed solar,2040,1106.316507
+Canada,MB,EPRI,Energy efficiency,2040,0
+Canada,MB,CER_HighDemand,Hydro,2040,8079
+Canada,MB,DSF,Hydro,2040,5883
+Canada,MB,EPRI,Hydro,2040,7539.002523999999
+Canada,MB,IET,Hydro,2040,6848.079961
+Canada,MB,CER_HighDemand,Natural Gas,2040,402
+Canada,MB,DSF,Natural Gas,2040,0
+Canada,MB,EPRI,Natural Gas,2040,1.040841
+Canada,MB,IET,Natural Gas,2040,510
+Canada,MB,DSF,Natural gas with CCUS,2040,0
+Canada,MB,EPRI,Natural gas with CCUS,2040,0.180885
+Canada,MB,DSF,Nuclear,2040,0
+Canada,MB,EPRI,Nuclear,2040,0.1442
+Canada,MB,DSF,Other fossil fuels,2040,0
+Canada,MB,EPRI,Other fossil fuels,2040,0
+Canada,MB,IET,Other fossil fuels,2040,6.72
+Canada,MB,EPRI,Other renewables,2040,0
+Canada,MB,CER_HighDemand,Solar,2040,366.7
+Canada,MB,DSF,Solar,2040,300
+Canada,MB,EPRI,Solar,2040,0.447067
+Canada,MB,IET,Solar,2040,0
+Canada,MB,CER_HighDemand,Storage,2040,629.7
+Canada,MB,DSF,Storage,2040,0
+Canada,MB,EPRI,Storage,2040,0.428483
+Canada,MB,IET,Storage,2040,281.7192173
+Canada,MB,CER_HighDemand,Wind,2040,1268
+Canada,MB,DSF,Wind,2040,3188
+Canada,MB,EPRI,Wind,2040,678.6538330000001
+Canada,MB,IET,Wind,2040,377.4685302
+Canada,NB,DSF,Biomass,2040,0
+Canada,NB,IET,Biomass,2040,555.0798873699999
+Canada,NB,IET,Distributed solar,2040,458.8217399
+Canada,NB,CER_HighDemand,Hydro,2040,960
+Canada,NB,DSF,Hydro,2040,944
+Canada,NB,IET,Hydro,2040,956
+Canada,NB,CER_HighDemand,Natural Gas,2040,1519
+Canada,NB,DSF,Natural Gas,2040,0
+Canada,NB,IET,Natural Gas,2040,348
+Canada,NB,DSF,Natural gas with CCUS,2040,0
+Canada,NB,CER_HighDemand,Nuclear,2040,705
+Canada,NB,DSF,Nuclear,2040,0
+Canada,NB,IET,Nuclear,2040,705
+Canada,NB,CER_HighDemand,Other fossil fuels,2040,540
+Canada,NB,DSF,Other fossil fuels,2040,0
+Canada,NB,IET,Other fossil fuels,2040,525
+Canada,NB,CER_HighDemand,Solar,2040,1254
+Canada,NB,DSF,Solar,2040,2997
+Canada,NB,IET,Solar,2040,1481.49098
+Canada,NB,CER_HighDemand,Storage,2040,486.7
+Canada,NB,DSF,Storage,2040,796
+Canada,NB,IET,Storage,2040,1075.951573
+Canada,NB,CER_HighDemand,Wind,2040,2284
+Canada,NB,DSF,Wind,2040,266
+Canada,NB,IET,Wind,2040,2617.391524
+Canada,NL,DSF,Biomass,2040,0
+Canada,NL,IET,Biomass,2040,1.544767591
+Canada,NL,IET,Distributed solar,2040,0.008
+Canada,NL,CER_HighDemand,Hydro,2040,7500
+Canada,NL,DSF,Hydro,2040,2479
+Canada,NL,IET,Hydro,2040,129.92
+Canada,NL,CER_HighDemand,Natural Gas,2040,251
+Canada,NL,DSF,Natural Gas,2040,0
+Canada,NL,IET,Natural Gas,2040,15.3
+Canada,NL,DSF,Natural gas with CCUS,2040,0
+Canada,NL,DSF,Nuclear,2040,0
+Canada,NL,DSF,Other fossil fuels,2040,0
+Canada,NL,IET,Other fossil fuels,2040,0
+Canada,NL,IET,Other renewables,2040,9868
+Canada,NL,DSF,Solar,2040,0
+Canada,NL,CER_HighDemand,Storage,2040,0
+Canada,NL,DSF,Storage,2040,160
+Canada,NL,IET,Storage,2040,54.69
+Canada,NL,CER_HighDemand,Wind,2040,54
+Canada,NL,DSF,Wind,2040,183
+Canada,NL,IET,Wind,2040,9.646252978
+Canada,NS,DSF,Biomass,2040,0
+Canada,NS,IET,Biomass,2040,1481.8249115
+Canada,NS,IET,Distributed solar,2040,0
+Canada,NS,CER_HighDemand,Hydro,2040,376
+Canada,NS,DSF,Hydro,2040,554
+Canada,NS,IET,Hydro,2040,1292.709907
+Canada,NS,CER_HighDemand,Natural Gas,2040,482
+Canada,NS,DSF,Natural Gas,2040,0
+Canada,NS,IET,Natural Gas,2040,0
+Canada,NS,DSF,Natural gas with CCUS,2040,0
+Canada,NS,CER_HighDemand,Nuclear,2040,21.04
+Canada,NS,DSF,Nuclear,2040,0
+Canada,NS,IET,Nuclear,2040,392.3320061
+Canada,NS,CER_HighDemand,Other fossil fuels,2040,222
+Canada,NS,DSF,Other fossil fuels,2040,0
+Canada,NS,IET,Other fossil fuels,2040,913.3005033
+Canada,NS,IET,Other renewables,2040,360
+Canada,NS,CER_HighDemand,Solar,2040,1537
+Canada,NS,DSF,Solar,2040,0
+Canada,NS,IET,Solar,2040,413.2717699
+Canada,NS,CER_HighDemand,Storage,2040,2012
+Canada,NS,DSF,Storage,2040,107
+Canada,NS,IET,Storage,2040,20
+Canada,NS,CER_HighDemand,Wind,2040,3852
+Canada,NS,DSF,Wind,2040,5469
+Canada,NS,IET,Wind,2040,0.247724427
+Canada,NT,IET,Biomass,2040,203.99257502
+Canada,NT,IET,Distributed solar,2040,120.7698597
+Canada,NT,IET,Hydro,2040,62.16
+Canada,NT,IET,Natural Gas,2040,11.40975863
+Canada,NT,IET,Other fossil fuels,2040,26.988
+Canada,NT,IET,Storage,2040,26.22700569
+Canada,NT,IET,Wind,2040,0.194152752
+Canada,NU,IET,Biomass,2040,16.05073263
+Canada,NU,IET,Distributed solar,2040,0
+Canada,NU,IET,Hydro,2040,30.24
+Canada,NU,IET,Other fossil fuels,2040,0
+Canada,NU,IET,Solar,2040,40.41845062
+Canada,NU,IET,Storage,2040,89.6627673
+Canada,NU,IET,Wind,2040,207.0653935
+Canada,ON,DSF,Biomass,2040,0
+Canada,ON,EPRI,Biomass,2040,92.642847
+Canada,ON,IET,Biomass,2040,972.9539747
+Canada,ON,EPRI,Biomass CCUS,2040,0
+Canada,ON,EPRI,Distributed solar,2040,0
+Canada,ON,IET,Distributed solar,2040,0
+Canada,ON,EPRI,Energy efficiency,2040,0
+Canada,ON,CER_HighDemand,Hydro,2040,9100
+Canada,ON,DSF,Hydro,2040,8123
+Canada,ON,EPRI,Hydro,2040,9240.002007
+Canada,ON,IET,Hydro,2040,9250.9
+Canada,ON,CER_HighDemand,Natural Gas,2040,10377
+Canada,ON,DSF,Natural Gas,2040,0
+Canada,ON,EPRI,Natural Gas,2040,11090.098641
+Canada,ON,IET,Natural Gas,2040,8608.9
+Canada,ON,DSF,Natural gas with CCUS,2040,0
+Canada,ON,EPRI,Natural gas with CCUS,2040,11276.78228
+Canada,ON,CER_HighDemand,Nuclear,2040,12673
+Canada,ON,DSF,Nuclear,2040,0
+Canada,ON,EPRI,Nuclear,2040,12076.390841
+Canada,ON,IET,Nuclear,2040,9916
+Canada,ON,DSF,Other fossil fuels,2040,0
+Canada,ON,EPRI,Other fossil fuels,2040,69.5
+Canada,ON,IET,Other fossil fuels,2040,10916.06718
+Canada,ON,EPRI,Other renewables,2040,0
+Canada,ON,IET,Other renewables,2040,0
+Canada,ON,CER_HighDemand,Solar,2040,17020
+Canada,ON,DSF,Solar,2040,2013
+Canada,ON,EPRI,Solar,2040,11586.100102
+Canada,ON,IET,Solar,2040,23067.44567
+Canada,ON,CER_HighDemand,Storage,2040,14390
+Canada,ON,DSF,Storage,2040,10776
+Canada,ON,EPRI,Storage,2040,3941.841546
+Canada,ON,IET,Storage,2040,17583.26382
+Canada,ON,CER_HighDemand,Wind,2040,17000
+Canada,ON,DSF,Wind,2040,67345
+Canada,ON,EPRI,Wind,2040,15070.684
+Canada,ON,IET,Wind,2040,35882.69327
+Canada,PE,DSF,Biomass,2040,0
+Canada,PE,IET,Biomass,2040,2.629551995
+Canada,PE,IET,Distributed solar,2040,77.43095964
+Canada,PE,DSF,Hydro,2040,0
+Canada,PE,DSF,Natural Gas,2040,0
+Canada,PE,DSF,Natural gas with CCUS,2040,0
+Canada,PE,DSF,Nuclear,2040,0
+Canada,PE,DSF,Other fossil fuels,2040,0
+Canada,PE,IET,Other fossil fuels,2040,0
+Canada,PE,IET,Other renewables,2040,64.72677283
+Canada,PE,CER_HighDemand,Solar,2040,200
+Canada,PE,DSF,Solar,2040,31
+Canada,PE,IET,Solar,2040,67.74075525
+Canada,PE,CER_HighDemand,Storage,2040,729.7
+Canada,PE,DSF,Storage,2040,11
+Canada,PE,IET,Storage,2040,164.3136338
+Canada,PE,CER_HighDemand,Wind,2040,500
+Canada,PE,DSF,Wind,2040,1240
+Canada,PE,IET,Wind,2040,551.9353787
+Canada,QC,DSF,Biomass,2040,0
+Canada,QC,IET,Biomass,2040,1326.3005704999998
+Canada,QC,IET,Distributed solar,2040,5196.97243
+Canada,QC,CER_HighDemand,Hydro,2040,42000
+Canada,QC,DSF,Hydro,2040,45852
+Canada,QC,IET,Hydro,2040,42147.16
+Canada,QC,CER_HighDemand,Natural Gas,2040,6580
+Canada,QC,DSF,Natural Gas,2040,0
+Canada,QC,IET,Natural Gas,2040,1011
+Canada,QC,DSF,Natural gas with CCUS,2040,0
+Canada,QC,DSF,Nuclear,2040,0
+Canada,QC,DSF,Other fossil fuels,2040,0
+Canada,QC,IET,Other fossil fuels,2040,126.788
+Canada,QC,IET,Other renewables,2040,0.064483375
+Canada,QC,CER_HighDemand,Solar,2040,12530
+Canada,QC,DSF,Solar,2040,6562
+Canada,QC,IET,Solar,2040,5720.41641
+Canada,QC,CER_HighDemand,Storage,2040,9660
+Canada,QC,DSF,Storage,2040,0
+Canada,QC,IET,Storage,2040,4865.884879
+Canada,QC,CER_HighDemand,Wind,2040,13770
+Canada,QC,DSF,Wind,2040,11733
+Canada,QC,IET,Wind,2040,8898.425527
+Canada,QCNL,EPRI,Biomass,2040,50.419708
+Canada,QCNL,EPRI,Biomass CCUS,2040,0
+Canada,QCNL,EPRI,Distributed solar,2040,0
+Canada,QCNL,EPRI,Energy efficiency,2040,0
+Canada,QCNL,EPRI,Hydro,2040,50100.00448
+Canada,QCNL,EPRI,Natural Gas,2040,534.557246
+Canada,QCNL,EPRI,Natural gas with CCUS,2040,527.365718
+Canada,QCNL,EPRI,Nuclear,2040,0.354336
+Canada,QCNL,EPRI,Other fossil fuels,2040,0.1389999999999999
+Canada,QCNL,EPRI,Other renewables,2040,0
+Canada,QCNL,EPRI,Solar,2040,0.711072
+Canada,QCNL,EPRI,Storage,2040,296.00776299999995
+Canada,QCNL,EPRI,Wind,2040,24313.329394
+Canada,SK,DSF,Biomass,2040,0
+Canada,SK,EPRI,Biomass,2040,106.884112
+Canada,SK,IET,Biomass,2040,146.4986736
+Canada,SK,EPRI,Biomass CCUS,2040,0
+Canada,SK,EPRI,Distributed solar,2040,0
+Canada,SK,IET,Distributed solar,2040,1086.627509
+Canada,SK,EPRI,Energy efficiency,2040,0
+Canada,SK,CER_HighDemand,Hydro,2040,890
+Canada,SK,DSF,Hydro,2040,863
+Canada,SK,EPRI,Hydro,2040,1009.002065
+Canada,SK,IET,Hydro,2040,871
+Canada,SK,CER_HighDemand,Natural Gas,2040,1705
+Canada,SK,DSF,Natural Gas,2040,0
+Canada,SK,EPRI,Natural Gas,2040,1957.135239
+Canada,SK,IET,Natural Gas,2040,1860
+Canada,SK,CER_HighDemand,Natural gas with CCUS,2040,1565
+Canada,SK,DSF,Natural gas with CCUS,2040,0
+Canada,SK,EPRI,Natural gas with CCUS,2040,2259.032461
+Canada,SK,DSF,Nuclear,2040,0
+Canada,SK,EPRI,Nuclear,2040,1134.179373
+Canada,SK,IET,Nuclear,2040,0
+Canada,SK,DSF,Other fossil fuels,2040,0
+Canada,SK,EPRI,Other fossil fuels,2040,0.115
+Canada,SK,IET,Other fossil fuels,2040,927.0077582
+Canada,SK,EPRI,Other renewables,2040,0
+Canada,SK,IET,Other renewables,2040,0
+Canada,SK,CER_HighDemand,Solar,2040,3879
+Canada,SK,DSF,Solar,2040,2000
+Canada,SK,EPRI,Solar,2040,402.741991
+Canada,SK,IET,Solar,2040,6500.715653
+Canada,SK,CER_HighDemand,Storage,2040,1940
+Canada,SK,DSF,Storage,2040,288
+Canada,SK,EPRI,Storage,2040,1646.1934
+Canada,SK,IET,Storage,2040,4543.163552
+Canada,SK,CER_HighDemand,Wind,2040,4795
+Canada,SK,DSF,Wind,2040,13571
+Canada,SK,EPRI,Wind,2040,4220.799694
+Canada,SK,IET,Wind,2040,10333.62435
+Canada,YT,IET,Biomass,2040,0.868869686
+Canada,YT,IET,Distributed solar,2040,42.66370739
+Canada,YT,IET,Hydro,2040,93.12195122
+Canada,YT,IET,Natural Gas,2040,4.4
+Canada,YT,IET,Other fossil fuels,2040,19.04
+Canada,YT,IET,Solar,2040,0
+Canada,YT,IET,Storage,2040,7.220405675
+Canada,YT,IET,Wind,2040,0.81
+Canada,AB,DSF,Biomass,2045,0
+Canada,AB,EPRI,Biomass,2045,647.5530510000001
+Canada,AB,IET,Biomass,2045,1134.96208094
+Canada,AB,EPRI,Biomass CCUS,2045,0
+Canada,AB,EPRI,Distributed solar,2045,0
+Canada,AB,IET,Distributed solar,2045,4396.12396
+Canada,AB,EPRI,Energy efficiency,2045,0
+Canada,AB,DSF,Hydro,2045,0
+Canada,AB,EPRI,Hydro,2045,1204.002819
+Canada,AB,IET,Hydro,2045,894
+Canada,AB,DSF,Natural Gas,2045,0
+Canada,AB,EPRI,Natural Gas,2045,7778.228720999999
+Canada,AB,IET,Natural Gas,2045,7459.267143
+Canada,AB,DSF,Natural gas with CCUS,2045,0
+Canada,AB,EPRI,Natural gas with CCUS,2045,9536.929567
+Canada,AB,DSF,Nuclear,2045,0
+Canada,AB,EPRI,Nuclear,2045,10326.449618
+Canada,AB,IET,Nuclear,2045,892.5808473
+Canada,AB,DSF,Other fossil fuels,2045,0
+Canada,AB,EPRI,Other fossil fuels,2045,0.106
+Canada,AB,IET,Other fossil fuels,2045,16.1
+Canada,AB,EPRI,Other renewables,2045,0
+Canada,AB,IET,Other renewables,2045,1500
+Canada,AB,DSF,Solar,2045,5286
+Canada,AB,EPRI,Solar,2045,3691.330231
+Canada,AB,IET,Solar,2045,17721.49003
+Canada,AB,DSF,Storage,2045,7834
+Canada,AB,EPRI,Storage,2045,14384.64642
+Canada,AB,IET,Storage,2045,15595.29619
+Canada,AB,DSF,Wind,2045,74820
+Canada,AB,EPRI,Wind,2045,8997.863044000002
+Canada,AB,IET,Wind,2045,36007.55265
+Canada,BC,DSF,Biomass,2045,0
+Canada,BC,EPRI,Biomass,2045,44.992764
+Canada,BC,IET,Biomass,2045,3220.2083558
+Canada,BC,EPRI,Biomass CCUS,2045,0
+Canada,BC,EPRI,Distributed solar,2045,0
+Canada,BC,IET,Distributed solar,2045,3749.513893
+Canada,BC,EPRI,Energy efficiency,2045,0
+Canada,BC,DSF,Hydro,2045,17377
+Canada,BC,EPRI,Hydro,2045,17659.0049
+Canada,BC,IET,Hydro,2045,16468.8
+Canada,BC,DSF,Natural Gas,2045,0
+Canada,BC,EPRI,Natural Gas,2045,1.838796
+Canada,BC,IET,Natural Gas,2045,233.1428571
+Canada,BC,DSF,Natural gas with CCUS,2045,0
+Canada,BC,EPRI,Natural gas with CCUS,2045,1427.114007
+Canada,BC,DSF,Nuclear,2045,0
+Canada,BC,EPRI,Nuclear,2045,0.6410440000000001
+Canada,BC,IET,Nuclear,2045,0
+Canada,BC,DSF,Other fossil fuels,2045,0
+Canada,BC,EPRI,Other fossil fuels,2045,0.0858
+Canada,BC,IET,Other fossil fuels,2045,20.562
+Canada,BC,EPRI,Other renewables,2045,0
+Canada,BC,IET,Other renewables,2045,5714.971826
+Canada,BC,DSF,Solar,2045,4000
+Canada,BC,EPRI,Solar,2045,3447.624844
+Canada,BC,IET,Solar,2045,0
+Canada,BC,DSF,Storage,2045,1470
+Canada,BC,EPRI,Storage,2045,1652.314566
+Canada,BC,IET,Storage,2045,669.4301681
+Canada,BC,DSF,Wind,2045,21356
+Canada,BC,EPRI,Wind,2045,7434.537284
+Canada,BC,IET,Wind,2045,712.5
+Canada,Maritimes,EPRI,Biomass,2045,748.037859
+Canada,Maritimes,EPRI,Biomass CCUS,2045,0
+Canada,Maritimes,EPRI,Distributed solar,2045,0
+Canada,Maritimes,EPRI,Energy efficiency,2045,0
+Canada,Maritimes,EPRI,Hydro,2045,1479.002459
+Canada,Maritimes,EPRI,Natural Gas,2045,723.7248410000001
+Canada,Maritimes,EPRI,Natural gas with CCUS,2045,1344.867546
+Canada,Maritimes,EPRI,Nuclear,2045,1240.869112
+Canada,Maritimes,EPRI,Other fossil fuels,2045,390.0845
+Canada,Maritimes,EPRI,Other renewables,2045,0
+Canada,Maritimes,EPRI,Solar,2045,1.337551
+Canada,Maritimes,EPRI,Storage,2045,2187.831262
+Canada,Maritimes,EPRI,Wind,2045,6249.930836999999
+Canada,MB,DSF,Biomass,2045,0
+Canada,MB,EPRI,Biomass,2045,0.0961
+Canada,MB,IET,Biomass,2045,130.55219388999998
+Canada,MB,EPRI,Biomass CCUS,2045,0
+Canada,MB,EPRI,Distributed solar,2045,0
+Canada,MB,IET,Distributed solar,2045,1104.423174
+Canada,MB,EPRI,Energy efficiency,2045,0
+Canada,MB,DSF,Hydro,2045,5883
+Canada,MB,EPRI,Hydro,2045,7539.003003000001
+Canada,MB,IET,Hydro,2045,7424
+Canada,MB,DSF,Natural Gas,2045,0
+Canada,MB,EPRI,Natural Gas,2045,1.181451
+Canada,MB,IET,Natural Gas,2045,510
+Canada,MB,DSF,Natural gas with CCUS,2045,0
+Canada,MB,EPRI,Natural gas with CCUS,2045,0.269683
+Canada,MB,DSF,Nuclear,2045,0
+Canada,MB,EPRI,Nuclear,2045,0.20054
+Canada,MB,DSF,Other fossil fuels,2045,0
+Canada,MB,EPRI,Other fossil fuels,2045,0
+Canada,MB,IET,Other fossil fuels,2045,5.52
+Canada,MB,EPRI,Other renewables,2045,0
+Canada,MB,DSF,Solar,2045,300
+Canada,MB,EPRI,Solar,2045,0.695905
+Canada,MB,IET,Solar,2045,523.3480231
+Canada,MB,DSF,Storage,2045,0
+Canada,MB,EPRI,Storage,2045,0.5771879999999999
+Canada,MB,IET,Storage,2045,579.2236093
+Canada,MB,DSF,Wind,2045,4653
+Canada,MB,EPRI,Wind,2045,1402.669913
+Canada,MB,IET,Wind,2045,1072.546925
+Canada,NB,DSF,Biomass,2045,0
+Canada,NB,IET,Biomass,2045,592.5245174300001
+Canada,NB,IET,Distributed solar,2045,458.7017399
+Canada,NB,DSF,Hydro,2045,944
+Canada,NB,IET,Hydro,2045,956
+Canada,NB,DSF,Natural Gas,2045,0
+Canada,NB,IET,Natural Gas,2045,348
+Canada,NB,DSF,Natural gas with CCUS,2045,0
+Canada,NB,DSF,Nuclear,2045,0
+Canada,NB,IET,Nuclear,2045,705
+Canada,NB,DSF,Other fossil fuels,2045,0
+Canada,NB,IET,Other fossil fuels,2045,525
+Canada,NB,DSF,Solar,2045,3440
+Canada,NB,IET,Solar,2045,1572.254762
+Canada,NB,DSF,Storage,2045,1082
+Canada,NB,IET,Storage,2045,1275.546531
+Canada,NB,DSF,Wind,2045,266
+Canada,NB,IET,Wind,2045,3083.113093
+Canada,NL,DSF,Biomass,2045,0
+Canada,NL,IET,Biomass,2045,1.544273127
+Canada,NL,IET,Distributed solar,2045,0.003
+Canada,NL,DSF,Hydro,2045,7382
+Canada,NL,IET,Hydro,2045,106.72
+Canada,NL,DSF,Natural Gas,2045,0
+Canada,NL,IET,Natural Gas,2045,15.3
+Canada,NL,DSF,Natural gas with CCUS,2045,0
+Canada,NL,DSF,Nuclear,2045,0
+Canada,NL,DSF,Other fossil fuels,2045,0
+Canada,NL,IET,Other fossil fuels,2045,0
+Canada,NL,IET,Other renewables,2045,9868
+Canada,NL,DSF,Solar,2045,0
+Canada,NL,DSF,Storage,2045,160
+Canada,NL,IET,Storage,2045,54.3
+Canada,NL,DSF,Wind,2045,183
+Canada,NL,IET,Wind,2045,9.646252978
+Canada,NS,DSF,Biomass,2045,0
+Canada,NS,IET,Biomass,2045,1507.814931
+Canada,NS,IET,Distributed solar,2045,0
+Canada,NS,DSF,Hydro,2045,554
+Canada,NS,IET,Hydro,2045,1669.243118
+Canada,NS,DSF,Natural Gas,2045,0
+Canada,NS,IET,Natural Gas,2045,0
+Canada,NS,DSF,Natural gas with CCUS,2045,0
+Canada,NS,DSF,Nuclear,2045,0
+Canada,NS,IET,Nuclear,2045,458.6786966
+Canada,NS,DSF,Other fossil fuels,2045,0
+Canada,NS,IET,Other fossil fuels,2045,867.2699238
+Canada,NS,IET,Other renewables,2045,360
+Canada,NS,DSF,Solar,2045,0
+Canada,NS,IET,Solar,2045,575.3296479
+Canada,NS,DSF,Storage,2045,275
+Canada,NS,IET,Storage,2045,20
+Canada,NS,DSF,Wind,2045,6202
+Canada,NS,IET,Wind,2045,0.267107595
+Canada,NT,IET,Biomass,2045,246.86111445
+Canada,NT,IET,Distributed solar,2045,144.1580283
+Canada,NT,IET,Hydro,2045,51.06
+Canada,NT,IET,Natural Gas,2045,11.5793916
+Canada,NT,IET,Other fossil fuels,2045,26.98527273
+Canada,NT,IET,Storage,2045,37.57834282
+Canada,NT,IET,Wind,2045,0.206730857
+Canada,NU,IET,Biomass,2045,16.04406597
+Canada,NU,IET,Distributed solar,2045,0
+Canada,NU,IET,Hydro,2045,24.84
+Canada,NU,IET,Other fossil fuels,2045,0
+Canada,NU,IET,Solar,2045,51.41267512
+Canada,NU,IET,Storage,2045,115.3159578
+Canada,NU,IET,Wind,2045,207.4923253
+Canada,ON,DSF,Biomass,2045,0
+Canada,ON,EPRI,Biomass,2045,92.697958
+Canada,ON,IET,Biomass,2045,1601.6633904
+Canada,ON,EPRI,Biomass CCUS,2045,0
+Canada,ON,EPRI,Distributed solar,2045,0
+Canada,ON,IET,Distributed solar,2045,0
+Canada,ON,EPRI,Energy efficiency,2045,0
+Canada,ON,DSF,Hydro,2045,8123
+Canada,ON,EPRI,Hydro,2045,9240.002495
+Canada,ON,IET,Hydro,2045,9250.9
+Canada,ON,DSF,Natural Gas,2045,0
+Canada,ON,EPRI,Natural Gas,2045,11080.638629
+Canada,ON,IET,Natural Gas,2045,8608.9
+Canada,ON,DSF,Natural gas with CCUS,2045,0
+Canada,ON,EPRI,Natural gas with CCUS,2045,13969.08676
+Canada,ON,DSF,Nuclear,2045,0
+Canada,ON,EPRI,Nuclear,2045,16295.57217
+Canada,ON,IET,Nuclear,2045,15837.85725
+Canada,ON,DSF,Other fossil fuels,2045,0
+Canada,ON,EPRI,Other fossil fuels,2045,69.5
+Canada,ON,IET,Other fossil fuels,2045,10783.18342
+Canada,ON,EPRI,Other renewables,2045,0
+Canada,ON,IET,Other renewables,2045,0
+Canada,ON,DSF,Solar,2045,12435
+Canada,ON,EPRI,Solar,2045,11592.036698
+Canada,ON,IET,Solar,2045,27478.96633
+Canada,ON,DSF,Storage,2045,13572
+Canada,ON,EPRI,Storage,2045,5825.711605
+Canada,ON,IET,Storage,2045,22693.94796
+Canada,ON,DSF,Wind,2045,71216
+Canada,ON,EPRI,Wind,2045,15071.21313
+Canada,ON,IET,Wind,2045,47807.61525
+Canada,PE,DSF,Biomass,2045,0
+Canada,PE,IET,Biomass,2045,2.696671103
+Canada,PE,IET,Distributed solar,2045,77.0976263
+Canada,PE,DSF,Hydro,2045,0
+Canada,PE,DSF,Natural Gas,2045,0
+Canada,PE,DSF,Natural gas with CCUS,2045,0
+Canada,PE,DSF,Nuclear,2045,0
+Canada,PE,DSF,Other fossil fuels,2045,0
+Canada,PE,IET,Other fossil fuels,2045,0
+Canada,PE,IET,Other renewables,2045,51.78141826
+Canada,PE,DSF,Solar,2045,0
+Canada,PE,IET,Solar,2045,84.67594406
+Canada,PE,DSF,Storage,2045,23
+Canada,PE,IET,Storage,2045,191.0575191
+Canada,PE,DSF,Wind,2045,1295
+Canada,PE,IET,Wind,2045,603.7777778
+Canada,QC,DSF,Biomass,2045,0
+Canada,QC,IET,Biomass,2045,1722.4815445
+Canada,QC,IET,Distributed solar,2045,5196.119205
+Canada,QC,DSF,Hydro,2045,40949
+Canada,QC,IET,Hydro,2045,42147.16
+Canada,QC,DSF,Natural Gas,2045,0
+Canada,QC,IET,Natural Gas,2045,1011
+Canada,QC,DSF,Natural gas with CCUS,2045,0
+Canada,QC,DSF,Nuclear,2045,0
+Canada,QC,DSF,Other fossil fuels,2045,0
+Canada,QC,IET,Other fossil fuels,2045,126.788
+Canada,QC,IET,Other renewables,2045,0.064483375
+Canada,QC,DSF,Solar,2045,8458
+Canada,QC,IET,Solar,2045,7911.930922
+Canada,QC,DSF,Storage,2045,0
+Canada,QC,IET,Storage,2045,6326.894576
+Canada,QC,DSF,Wind,2045,24095
+Canada,QC,IET,Wind,2045,12307.4481
+Canada,QCNL,EPRI,Biomass,2045,50.449155000000005
+Canada,QCNL,EPRI,Biomass CCUS,2045,0
+Canada,QCNL,EPRI,Distributed solar,2045,0
+Canada,QCNL,EPRI,Energy efficiency,2045,0
+Canada,QCNL,EPRI,Hydro,2045,50100.0055
+Canada,QCNL,EPRI,Natural Gas,2045,534.3066520000001
+Canada,QCNL,EPRI,Natural gas with CCUS,2045,1311.571625
+Canada,QCNL,EPRI,Nuclear,2045,0.566116
+Canada,QCNL,EPRI,Other fossil fuels,2045,0.134
+Canada,QCNL,EPRI,Other renewables,2045,0
+Canada,QCNL,EPRI,Solar,2045,1.999339
+Canada,QCNL,EPRI,Storage,2045,443.9462
+Canada,QCNL,EPRI,Wind,2045,24314.121781
+Canada,SK,DSF,Biomass,2045,0
+Canada,SK,EPRI,Biomass,2045,106.97717
+Canada,SK,IET,Biomass,2045,184.7920851
+Canada,SK,EPRI,Biomass CCUS,2045,0
+Canada,SK,EPRI,Distributed solar,2045,0
+Canada,SK,IET,Distributed solar,2045,1083.667509
+Canada,SK,EPRI,Energy efficiency,2045,0
+Canada,SK,DSF,Hydro,2045,863
+Canada,SK,EPRI,Hydro,2045,1009.002449
+Canada,SK,IET,Hydro,2045,871
+Canada,SK,DSF,Natural Gas,2045,0
+Canada,SK,EPRI,Natural Gas,2045,1957.188008
+Canada,SK,IET,Natural Gas,2045,1860
+Canada,SK,DSF,Natural gas with CCUS,2045,0
+Canada,SK,EPRI,Natural gas with CCUS,2045,2424.079136
+Canada,SK,DSF,Nuclear,2045,0
+Canada,SK,EPRI,Nuclear,2045,1646.252846
+Canada,SK,IET,Nuclear,2045,0
+Canada,SK,DSF,Other fossil fuels,2045,0
+Canada,SK,EPRI,Other fossil fuels,2045,0.0513
+Canada,SK,IET,Other fossil fuels,2045,652.8263415
+Canada,SK,EPRI,Other renewables,2045,0
+Canada,SK,IET,Other renewables,2045,0
+Canada,SK,DSF,Solar,2045,1960
+Canada,SK,EPRI,Solar,2045,405.75947900000006
+Canada,SK,IET,Solar,2045,8143.583829
+Canada,SK,DSF,Storage,2045,377
+Canada,SK,EPRI,Storage,2045,2205.56656
+Canada,SK,IET,Storage,2045,5738.69137
+Canada,SK,DSF,Wind,2045,15120
+Canada,SK,EPRI,Wind,2045,4221.520625
+Canada,SK,IET,Wind,2045,13102.71243
+Canada,YT,IET,Biomass,2045,3.780803966
+Canada,YT,IET,Distributed solar,2045,42.37037406
+Canada,YT,IET,Hydro,2045,120.5660091
+Canada,YT,IET,Natural Gas,2045,4.4
+Canada,YT,IET,Other fossil fuels,2045,15.64
+Canada,YT,IET,Solar,2045,0.756812764
+Canada,YT,IET,Storage,2045,7.724947517
+Canada,YT,IET,Wind,2045,0
+Canada,AB,DSF,Biomass,2050,0
+Canada,AB,EPRI,Biomass,2050,647.6656710000001
+Canada,AB,IET,Biomass,2050,1033.84588438
+Canada,AB,EPRI,Biomass CCUS,2050,0
+Canada,AB,EPRI,Distributed solar,2050,0
+Canada,AB,IET,Distributed solar,2050,4392.54796
+Canada,AB,EPRI,Energy efficiency,2050,0
+Canada,AB,CER_HighDemand,Hydro,2050,894
+Canada,AB,DSF,Hydro,2050,0
+Canada,AB,EPRI,Hydro,2050,1204.002928
+Canada,AB,IET,Hydro,2050,894
+Canada,AB,CER_HighDemand,Natural Gas,2050,10625
+Canada,AB,DSF,Natural Gas,2050,0
+Canada,AB,EPRI,Natural Gas,2050,7591.612015000001
+Canada,AB,IET,Natural Gas,2050,7421.648095
+Canada,AB,CER_HighDemand,Natural gas with CCUS,2050,5536
+Canada,AB,DSF,Natural gas with CCUS,2050,0
+Canada,AB,EPRI,Natural gas with CCUS,2050,10193.68909
+Canada,AB,DSF,Nuclear,2050,0
+Canada,AB,EPRI,Nuclear,2050,11176.566584
+Canada,AB,IET,Nuclear,2050,1115.726059
+Canada,AB,DSF,Other fossil fuels,2050,0
+Canada,AB,EPRI,Other fossil fuels,2050,0.0365
+Canada,AB,IET,Other fossil fuels,2050,12.6
+Canada,AB,EPRI,Other renewables,2050,0
+Canada,AB,IET,Other renewables,2050,1500
+Canada,AB,CER_HighDemand,Solar,2050,11820
+Canada,AB,DSF,Solar,2050,5847
+Canada,AB,EPRI,Solar,2050,3691.896725
+Canada,AB,IET,Solar,2050,26279.38127
+Canada,AB,CER_HighDemand,Storage,2050,10790
+Canada,AB,DSF,Storage,2050,10913
+Canada,AB,EPRI,Storage,2050,18906.91579
+Canada,AB,IET,Storage,2050,18337.67543
+Canada,AB,CER_HighDemand,Wind,2050,17780
+Canada,AB,DSF,Wind,2050,85674
+Canada,AB,EPRI,Wind,2050,8997.899942
+Canada,AB,IET,Wind,2050,42088.23753
+Canada,BC,DSF,Biomass,2050,0
+Canada,BC,EPRI,Biomass,2050,45.032678
+Canada,BC,IET,Biomass,2050,3261.3462411
+Canada,BC,EPRI,Biomass CCUS,2050,0
+Canada,BC,EPRI,Distributed solar,2050,0
+Canada,BC,IET,Distributed solar,2050,3748.445893
+Canada,BC,EPRI,Energy efficiency,2050,0
+Canada,BC,CER_HighDemand,Hydro,2050,19900
+Canada,BC,DSF,Hydro,2050,15812
+Canada,BC,EPRI,Hydro,2050,17659.005579999997
+Canada,BC,IET,Hydro,2050,16468.8
+Canada,BC,CER_HighDemand,Natural Gas,2050,1807
+Canada,BC,DSF,Natural Gas,2050,0
+Canada,BC,EPRI,Natural Gas,2050,1.849816
+Canada,BC,IET,Natural Gas,2050,229.0952381
+Canada,BC,DSF,Natural gas with CCUS,2050,0
+Canada,BC,EPRI,Natural gas with CCUS,2050,1427.2519960000002
+Canada,BC,DSF,Nuclear,2050,0
+Canada,BC,EPRI,Nuclear,2050,0.8031919999999999
+Canada,BC,IET,Nuclear,2050,0
+Canada,BC,DSF,Other fossil fuels,2050,0
+Canada,BC,EPRI,Other fossil fuels,2050,0.0833
+Canada,BC,IET,Other fossil fuels,2050,16.092
+Canada,BC,EPRI,Other renewables,2050,0
+Canada,BC,IET,Other renewables,2050,6000
+Canada,BC,CER_HighDemand,Solar,2050,4464
+Canada,BC,DSF,Solar,2050,5000
+Canada,BC,EPRI,Solar,2050,4705.602029000001
+Canada,BC,IET,Solar,2050,6350.845714
+Canada,BC,CER_HighDemand,Storage,2050,4740
+Canada,BC,DSF,Storage,2050,3161
+Canada,BC,EPRI,Storage,2050,2203.042102
+Canada,BC,IET,Storage,2050,4903.327311
+Canada,BC,CER_HighDemand,Wind,2050,10930
+Canada,BC,DSF,Wind,2050,29989
+Canada,BC,EPRI,Wind,2050,7434.697948
+Canada,BC,IET,Wind,2050,10345.59333
+Canada,Maritimes,EPRI,Biomass,2050,747.329217
+Canada,Maritimes,EPRI,Biomass CCUS,2050,0
+Canada,Maritimes,EPRI,Distributed solar,2050,0
+Canada,Maritimes,EPRI,Energy efficiency,2050,0
+Canada,Maritimes,EPRI,Hydro,2050,1589.002501
+Canada,Maritimes,EPRI,Natural Gas,2050,581.653787
+Canada,Maritimes,EPRI,Natural gas with CCUS,2050,1345.758885
+Canada,Maritimes,EPRI,Nuclear,2050,2468.910288
+Canada,Maritimes,EPRI,Other fossil fuels,2050,0.221
+Canada,Maritimes,EPRI,Other renewables,2050,0
+Canada,Maritimes,EPRI,Solar,2050,1.779605
+Canada,Maritimes,EPRI,Storage,2050,2917.07269
+Canada,Maritimes,EPRI,Wind,2050,3645.180258
+Canada,MB,DSF,Biomass,2050,0
+Canada,MB,EPRI,Biomass,2050,0.138483
+Canada,MB,IET,Biomass,2050,135.23270055
+Canada,MB,EPRI,Biomass CCUS,2050,0
+Canada,MB,EPRI,Distributed solar,2050,0
+Canada,MB,IET,Distributed solar,2050,1103.287174
+Canada,MB,EPRI,Energy efficiency,2050,0
+Canada,MB,CER_HighDemand,Hydro,2050,8273
+Canada,MB,DSF,Hydro,2050,5883
+Canada,MB,EPRI,Hydro,2050,7539.003406
+Canada,MB,IET,Hydro,2050,7424
+Canada,MB,CER_HighDemand,Natural Gas,2050,526.5
+Canada,MB,DSF,Natural Gas,2050,0
+Canada,MB,EPRI,Natural Gas,2050,1.3822
+Canada,MB,IET,Natural Gas,2050,510
+Canada,MB,DSF,Natural gas with CCUS,2050,0
+Canada,MB,EPRI,Natural gas with CCUS,2050,0.452849
+Canada,MB,DSF,Nuclear,2050,0
+Canada,MB,EPRI,Nuclear,2050,0.277766
+Canada,MB,DSF,Other fossil fuels,2050,0
+Canada,MB,EPRI,Other fossil fuels,2050,0
+Canada,MB,IET,Other fossil fuels,2050,4.32
+Canada,MB,EPRI,Other renewables,2050,0
+Canada,MB,CER_HighDemand,Solar,2050,1748
+Canada,MB,DSF,Solar,2050,908
+Canada,MB,EPRI,Solar,2050,0.948939
+Canada,MB,IET,Solar,2050,2054.491086
+Canada,MB,CER_HighDemand,Storage,2050,1432
+Canada,MB,DSF,Storage,2050,421
+Canada,MB,EPRI,Storage,2050,0.725892
+Canada,MB,IET,Storage,2050,1599.985651
+Canada,MB,CER_HighDemand,Wind,2050,2710
+Canada,MB,DSF,Wind,2050,5248
+Canada,MB,EPRI,Wind,2050,1991.929871
+Canada,MB,IET,Wind,2050,3355.325022
+Canada,NB,DSF,Biomass,2050,0
+Canada,NB,IET,Biomass,2050,622.16158133
+Canada,NB,IET,Distributed solar,2050,458.6297399
+Canada,NB,CER_HighDemand,Hydro,2050,960
+Canada,NB,DSF,Hydro,2050,944
+Canada,NB,IET,Hydro,2050,956
+Canada,NB,CER_HighDemand,Natural Gas,2050,1519
+Canada,NB,DSF,Natural Gas,2050,0
+Canada,NB,IET,Natural Gas,2050,348
+Canada,NB,DSF,Natural gas with CCUS,2050,0
+Canada,NB,CER_HighDemand,Nuclear,2050,705
+Canada,NB,DSF,Nuclear,2050,0
+Canada,NB,IET,Nuclear,2050,0
+Canada,NB,CER_HighDemand,Other fossil fuels,2050,540
+Canada,NB,DSF,Other fossil fuels,2050,0
+Canada,NB,IET,Other fossil fuels,2050,525
+Canada,NB,CER_HighDemand,Solar,2050,2318
+Canada,NB,DSF,Solar,2050,3818
+Canada,NB,IET,Solar,2050,2695.772577
+Canada,NB,CER_HighDemand,Storage,2050,869.7
+Canada,NB,DSF,Storage,2050,1689
+Canada,NB,IET,Storage,2050,1885.472638
+Canada,NB,CER_HighDemand,Wind,2050,2876
+Canada,NB,DSF,Wind,2050,266
+Canada,NB,IET,Wind,2050,4257.274008
+Canada,NL,DSF,Biomass,2050,0
+Canada,NL,IET,Biomass,2050,3.021343602
+Canada,NL,IET,Distributed solar,2050,0
+Canada,NL,CER_HighDemand,Hydro,2050,7500
+Canada,NL,DSF,Hydro,2050,7382
+Canada,NL,IET,Hydro,2050,83.52
+Canada,NL,CER_HighDemand,Natural Gas,2050,251
+Canada,NL,DSF,Natural Gas,2050,0
+Canada,NL,IET,Natural Gas,2050,15.3
+Canada,NL,DSF,Natural gas with CCUS,2050,0
+Canada,NL,DSF,Nuclear,2050,0
+Canada,NL,DSF,Other fossil fuels,2050,0
+Canada,NL,IET,Other fossil fuels,2050,0
+Canada,NL,IET,Other renewables,2050,9868
+Canada,NL,DSF,Solar,2050,0
+Canada,NL,CER_HighDemand,Storage,2050,0
+Canada,NL,DSF,Storage,2050,160
+Canada,NL,IET,Storage,2050,0.3
+Canada,NL,CER_HighDemand,Wind,2050,54
+Canada,NL,DSF,Wind,2050,183
+Canada,NL,IET,Wind,2050,9.95231208
+Canada,NS,DSF,Biomass,2050,0
+Canada,NS,IET,Biomass,2050,1655.8894495
+Canada,NS,IET,Distributed solar,2050,0
+Canada,NS,CER_HighDemand,Hydro,2050,376
+Canada,NS,DSF,Hydro,2050,554
+Canada,NS,IET,Hydro,2050,1618.659383
+Canada,NS,CER_HighDemand,Natural Gas,2050,482
+Canada,NS,DSF,Natural Gas,2050,0
+Canada,NS,IET,Natural Gas,2050,440.3882084
+Canada,NS,DSF,Natural gas with CCUS,2050,0
+Canada,NS,CER_HighDemand,Nuclear,2050,21
+Canada,NS,DSF,Nuclear,2050,0
+Canada,NS,IET,Nuclear,2050,694.0654584
+Canada,NS,CER_HighDemand,Other fossil fuels,2050,222
+Canada,NS,DSF,Other fossil fuels,2050,0
+Canada,NS,IET,Other fossil fuels,2050,659.63731949
+Canada,NS,IET,Other renewables,2050,360
+Canada,NS,CER_HighDemand,Solar,2050,2464
+Canada,NS,DSF,Solar,2050,0
+Canada,NS,IET,Solar,2050,601.3513767
+Canada,NS,CER_HighDemand,Storage,2050,2675
+Canada,NS,DSF,Storage,2050,337
+Canada,NS,IET,Storage,2050,20
+Canada,NS,CER_HighDemand,Wind,2050,4356
+Canada,NS,DSF,Wind,2050,6408
+Canada,NS,IET,Wind,2050,0.286167771
+Canada,NT,IET,Biomass,2050,267.25311314
+Canada,NT,IET,Distributed solar,2050,145.869694
+Canada,NT,IET,Hydro,2050,39.96
+Canada,NT,IET,Natural Gas,2050,11.71733305
+Canada,NT,IET,Other fossil fuels,2050,26.98254545
+Canada,NT,IET,Storage,2050,80.41858157
+Canada,NT,IET,Wind,2050,0.26415472
+Canada,NU,IET,Biomass,2050,16.04006597
+Canada,NU,IET,Distributed solar,2050,0
+Canada,NU,IET,Hydro,2050,19.44
+Canada,NU,IET,Other fossil fuels,2050,0
+Canada,NU,IET,Solar,2050,68.25223832
+Canada,NU,IET,Storage,2050,154.6082719
+Canada,NU,IET,Wind,2050,188.5494536
+Canada,ON,DSF,Biomass,2050,0
+Canada,ON,EPRI,Biomass,2050,92.788363
+Canada,ON,IET,Biomass,2050,2180.2093694
+Canada,ON,EPRI,Biomass CCUS,2050,0
+Canada,ON,EPRI,Distributed solar,2050,0
+Canada,ON,IET,Distributed solar,2050,0
+Canada,ON,EPRI,Energy efficiency,2050,0
+Canada,ON,CER_HighDemand,Hydro,2050,9100
+Canada,ON,DSF,Hydro,2050,8114
+Canada,ON,EPRI,Hydro,2050,9490.003071
+Canada,ON,IET,Hydro,2050,9250.9
+Canada,ON,CER_HighDemand,Natural Gas,2050,8966
+Canada,ON,DSF,Natural Gas,2050,0
+Canada,ON,EPRI,Natural Gas,2050,11080.861743
+Canada,ON,IET,Natural Gas,2050,8608.9
+Canada,ON,DSF,Natural gas with CCUS,2050,0
+Canada,ON,EPRI,Natural gas with CCUS,2050,13972.54319
+Canada,ON,CER_HighDemand,Nuclear,2050,19968
+Canada,ON,DSF,Nuclear,2050,0
+Canada,ON,EPRI,Nuclear,2050,19951.864933
+Canada,ON,IET,Nuclear,2050,23018.87312
+Canada,ON,DSF,Other fossil fuels,2050,0
+Canada,ON,EPRI,Other fossil fuels,2050,64.3
+Canada,ON,IET,Other fossil fuels,2050,10701.49316
+Canada,ON,EPRI,Other renewables,2050,0
+Canada,ON,IET,Other renewables,2050,0
+Canada,ON,CER_HighDemand,Solar,2050,27630
+Canada,ON,DSF,Solar,2050,19758
+Canada,ON,EPRI,Solar,2050,24359.86129
+Canada,ON,IET,Solar,2050,33352.16542
+Canada,ON,CER_HighDemand,Storage,2050,23620
+Canada,ON,DSF,Storage,2050,17710
+Canada,ON,EPRI,Storage,2050,7709.581665
+Canada,ON,IET,Storage,2050,24439.74891
+Canada,ON,CER_HighDemand,Wind,2050,17000
+Canada,ON,DSF,Wind,2050,77922
+Canada,ON,EPRI,Wind,2050,17209.48641
+Canada,ON,IET,Wind,2050,51881.14621
+Canada,PE,DSF,Biomass,2050,0
+Canada,PE,IET,Biomass,2050,2.762283155
+Canada,PE,IET,Distributed solar,2050,76.8976263
+Canada,PE,DSF,Hydro,2050,0
+Canada,PE,DSF,Natural Gas,2050,0
+Canada,PE,DSF,Natural gas with CCUS,2050,0
+Canada,PE,DSF,Nuclear,2050,0
+Canada,PE,DSF,Other fossil fuels,2050,0
+Canada,PE,IET,Other fossil fuels,2050,0
+Canada,PE,IET,Other renewables,2050,0
+Canada,PE,CER_HighDemand,Solar,2050,200
+Canada,PE,DSF,Solar,2050,0
+Canada,PE,IET,Solar,2050,277.9215398
+Canada,PE,CER_HighDemand,Storage,2050,834
+Canada,PE,DSF,Storage,2050,29
+Canada,PE,IET,Storage,2050,259.4885
+Canada,PE,CER_HighDemand,Wind,2050,500
+Canada,PE,DSF,Wind,2050,1351
+Canada,PE,IET,Wind,2050,590.7716864
+Canada,QC,DSF,Biomass,2050,0
+Canada,QC,IET,Biomass,2050,1627.9455884
+Canada,QC,IET,Distributed solar,2050,5195.60727
+Canada,QC,CER_HighDemand,Hydro,2050,42000
+Canada,QC,DSF,Hydro,2050,40949
+Canada,QC,IET,Hydro,2050,42147.16
+Canada,QC,CER_HighDemand,Natural Gas,2050,6580
+Canada,QC,DSF,Natural Gas,2050,0
+Canada,QC,IET,Natural Gas,2050,1011
+Canada,QC,DSF,Natural gas with CCUS,2050,0
+Canada,QC,DSF,Nuclear,2050,0
+Canada,QC,DSF,Other fossil fuels,2050,0
+Canada,QC,IET,Other fossil fuels,2050,126.788
+Canada,QC,IET,Other renewables,2050,0.038690025
+Canada,QC,CER_HighDemand,Solar,2050,24550
+Canada,QC,DSF,Solar,2050,8458
+Canada,QC,IET,Solar,2050,11227.78466
+Canada,QC,CER_HighDemand,Storage,2050,18050
+Canada,QC,DSF,Storage,2050,0
+Canada,QC,IET,Storage,2050,8537.463748
+Canada,QC,CER_HighDemand,Wind,2050,25200
+Canada,QC,DSF,Wind,2050,28006
+Canada,QC,IET,Wind,2050,17465.44281
+Canada,QCNL,EPRI,Biomass,2050,50.514731
+Canada,QCNL,EPRI,Biomass CCUS,2050,0
+Canada,QCNL,EPRI,Distributed solar,2050,0
+Canada,QCNL,EPRI,Energy efficiency,2050,0
+Canada,QCNL,EPRI,Hydro,2050,50590.00653
+Canada,QCNL,EPRI,Natural Gas,2050,1.087118
+Canada,QCNL,EPRI,Natural gas with CCUS,2050,1311.875771
+Canada,QCNL,EPRI,Nuclear,2050,0.8237859999999999
+Canada,QCNL,EPRI,Other fossil fuels,2050,0.104
+Canada,QCNL,EPRI,Other renewables,2050,0
+Canada,QCNL,EPRI,Solar,2050,2.683437
+Canada,QCNL,EPRI,Storage,2050,591.884636
+Canada,QCNL,EPRI,Wind,2050,26317.343583
+Canada,SK,DSF,Biomass,2050,0
+Canada,SK,EPRI,Biomass,2050,106.823691
+Canada,SK,IET,Biomass,2050,187.9428493
+Canada,SK,EPRI,Biomass CCUS,2050,0
+Canada,SK,EPRI,Distributed solar,2050,0
+Canada,SK,IET,Distributed solar,2050,1081.891509
+Canada,SK,EPRI,Energy efficiency,2050,0
+Canada,SK,CER_HighDemand,Hydro,2050,890
+Canada,SK,DSF,Hydro,2050,863
+Canada,SK,EPRI,Hydro,2050,1009.002954
+Canada,SK,IET,Hydro,2050,871
+Canada,SK,CER_HighDemand,Natural Gas,2050,2381
+Canada,SK,DSF,Natural Gas,2050,0
+Canada,SK,EPRI,Natural Gas,2050,1957.24721
+Canada,SK,IET,Natural Gas,2050,1860
+Canada,SK,CER_HighDemand,Natural gas with CCUS,2050,1773
+Canada,SK,DSF,Natural gas with CCUS,2050,0
+Canada,SK,EPRI,Natural gas with CCUS,2050,2466.231935
+Canada,SK,DSF,Nuclear,2050,0
+Canada,SK,EPRI,Nuclear,2050,1992.836383
+Canada,SK,IET,Nuclear,2050,0
+Canada,SK,DSF,Other fossil fuels,2050,0
+Canada,SK,EPRI,Other fossil fuels,2050,0.015
+Canada,SK,IET,Other fossil fuels,2050,651.5963415
+Canada,SK,EPRI,Other renewables,2050,0
+Canada,SK,IET,Other renewables,2050,0
+Canada,SK,CER_HighDemand,Solar,2050,7449
+Canada,SK,DSF,Solar,2050,3000
+Canada,SK,EPRI,Solar,2050,406.610056
+Canada,SK,IET,Solar,2050,8341.091833
+Canada,SK,CER_HighDemand,Storage,2050,4998
+Canada,SK,DSF,Storage,2050,665
+Canada,SK,EPRI,Storage,2050,2764.939721
+Canada,SK,IET,Storage,2050,7256.117915
+Canada,SK,CER_HighDemand,Wind,2050,6527
+Canada,SK,DSF,Wind,2050,16767
+Canada,SK,EPRI,Wind,2050,4221.628904
+Canada,SK,IET,Wind,2050,16493.97437
+Canada,YT,IET,Biomass,2050,3.881859839
+Canada,YT,IET,Distributed solar,2050,42.19437406
+Canada,YT,IET,Hydro,2050,181.8546415
+Canada,YT,IET,Natural Gas,2050,4.4
+Canada,YT,IET,Other fossil fuels,2050,12.24
+Canada,YT,IET,Solar,2050,1.793190817
+Canada,YT,IET,Storage,2050,8.415866219
+Canada,YT,IET,Wind,2050,0
